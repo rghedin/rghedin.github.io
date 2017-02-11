@@ -1,0 +1,10 @@
+<body{% if page.id %} class="single"{% endif %}>
+
+  <div id="container">
+      <header>
+      {% if page.id %}
+        <h2 class="title">Rodrigo <a href="{{ "/" | relative_url}}">Ghed.in</a></h2>
+      {% else %}
+        <h1>Rodrigo <a href="{{ "/" | relative_url}}">Ghed.in</a></h1>
+      {% endif %}
+      </header>

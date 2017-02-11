@@ -1,0 +1,11 @@
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+	<h1>{{ page.title | escape }}</h1>
+
+	<div class="entry">
+		{{ content }}
+	</div>
+
+	<p>Publicado em<br />{{ page.date | date: "%b %-d, %Y" }}</p>
+
+</article>
