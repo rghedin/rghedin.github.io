@@ -3,3 +3,5 @@ email: ghedin@gmail.com
 permalink: /:title/
 markdown: kramdown
 theme: jekyll-theme-minimal
+gems:
+  - jekyll-feed
