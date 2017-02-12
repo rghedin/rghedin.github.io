@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meu primeiro bilhetinho amoroso"
-date: 2011-03-30 01:43:34.000000000 -03:00
+date: 2011-03-30 01:43 0300
 ---
 ![Charlie Brown]({{ site.baseurl }}/assets/charlie-brown.jpg)
 
