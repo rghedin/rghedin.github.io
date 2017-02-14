@@ -1,11 +1,23 @@
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "pt-br" }}">
 
-	<h1>{{ page.title | escape }}</h1>
+  {% include head.html %}
 
-	<div class="entry">
-		{{ content }}
-	</div>
+<body class="single">
 
-	<p>Publicado em<br />{{ page.date | date: "%b %-d, %Y" }}</p>
+  <div id="container">
+      <header>
+        <h2 class="title">Rodrigo <a href="{{ "/" | relative_url}}">Ghed.in</a></h2>
+			</header>
 
-</article>
+					<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+						<h1>{{ page.title | escape }}</h1>
+
+						<div class="entry">
+							{{ content }}
+						</div>
+
+					</article>
+
+		{% include footer.html %}
