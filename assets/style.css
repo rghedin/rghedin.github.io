@@ -89,6 +89,6 @@ footer {margin: 180px 0 100px; clear:both;}
 /*.pagination {margin: 100px 0;}*/
 .single .pagination .next {float: right; margin-bottom: 180px;}
 
-@media only screen and (max-width: 568px) {
-	#container {padding: 10px;}
+@media only screen and (max-width: 960px) {
+	#container {padding: 16px;}
 }
