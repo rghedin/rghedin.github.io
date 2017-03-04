@@ -1,7 +1,7 @@
 ---
 layout: post
-title: O amor nos tempos modernos segundo "Love"
-date: 2016-02-29 19:55:30.000000000 -03:00
+title: "O amor nos tempos modernos segundo \"Love\""
+date: 2016-02-29 19:55 -03:00
 ---
 _Love_, nova série da Netflix, apareceu um dia, do nada, no meu e-mail com a promessa de ser uma série sobre… bem, sobre o amor. Nela temos Gus (Paul Rust) e Mickey (Gillian Jacobs), pessoas desajustadas cada uma à sua maneira, buscando suas caras-metade.
 
