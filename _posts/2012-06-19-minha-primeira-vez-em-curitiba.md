@@ -19,4 +19,4 @@ Mais uma vez, agradeço imensamente a hospitalidade, a companhia e os bons momen
 
 [![Mobília de Jorge Zalszupin no Museu Oscar Niemeyer.]({{ site.baseurl }}/assets/boteco.jpg "Boteco style.")](http://www.flickr.com/photos/rghedin/7404779676/in/set-72157630200678524)
 
-_Estas são três das fotos que fiz durante a viagem — as minhas favoritas. Para ver essas e outras em tamanho maior, [vá para o Flickr](http://www.flickr.com/photos/rghedin/sets/72157630200678524/). A foto que abre o post, com a galera do WordCamp, foi tirada por Oscar Cidri. Tem mais [no site oficial](http://2012.curitiba.wordcamp.org/fotos/)._
+Estas acima são três das fotos que fiz durante a viagem — as minhas favoritas. Para ver essas e outras em tamanho maior, [vá para o Flickr](http://www.flickr.com/photos/rghedin/sets/72157630200678524/). A foto que abre o post, com a galera do WordCamp, foi tirada por Oscar Cidri. Tem mais [no site oficial](http://2012.curitiba.wordcamp.org/fotos/).
