@@ -7,7 +7,7 @@ date: 2017-03-30 06:40 -0300
 
 Tenho comido muito lanche nos últimos dias, desses prensados na chapa. Não sei se é algo exclusivo do interior do Paraná, mas sei que Maringá é pródiga em bons lanches do tipo. E, pela ausência de referências curitibanas a ele, aproveitei enquanto pude antes de me mudar para a capital.
 
-O lanche prensado é uma das muitas coisas de que sentirei falta de Maringá. A quem vê de fora, é um paraíso bastante quente: constantemente no topo de listas das melhores cidades para se viver e detentora de altas temperaturas nos serviços de meteorologia. É, sim, uma cidade onde faz muito calor. Também, uma sensacional, independentemente do que lhe diga qualquer maringaense — falar mal daqui é um esporte popular entre os nativos.
+O lanche prensado é uma das muitas coisas de que sentirei falta de Maringá. A quem vê de fora, a cidade é um paraíso bastante quente: constantemente no topo de listas das melhores para se viver e detentora de altas temperaturas nos serviços de meteorologia. É, sim, uma cidade onde faz muito calor. Também, uma sensacional, independentemente do que lhe diga qualquer maringaense — falar mal daqui é um esporte popular entre os nativos.
 
 Maringá não é perfeita, claro. A violência tem aumentado. Assaltos na porta de casa ([e dentro dela](https://www.manualdousuario.net/pos-assalto/)) são recorrentes. O jeitinho de cidade interiorana, que muito me agrada, tem outro lado um tanto perverso, calcado num conservadorismo exagerado que, mesmo com toda a diversidade que permeia a cidade, parece dar-lhe o tom e, com frequência, recai em discriminação e outras situações chatas, para dizer o mínimo.
 
