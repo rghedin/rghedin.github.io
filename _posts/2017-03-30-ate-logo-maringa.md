@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Até logo, Maringá"
-date: 2017-03-30 07:00 -0300
+date: 2017-03-30 06:40 -0300
 ---
 ![Bloco E34 da UEM.]({{ site.baseurl }}/assets/e34-uem.jpg)
 
