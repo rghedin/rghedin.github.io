@@ -15,6 +15,6 @@ Há espaços para melhorar. Mas mesmo sem tê-los preenchido ainda, Maringá aco
 
 Sentirei falta da UEM. Mesmo em uma fase difícil, sucateada e ameaçada, a universidade se sustenta como algo ímpar. É uma pena que se valorize tão pouco um ambiente tão rico de ideias e pessoas. Fico imaginando o que seria dela com mais investimento e atenção. Divago.
 
-Se a nova fase em Curitiba for tão bacana quanto a maringaense, ficarei satisfeito. Tudo indica que será. Foi por tal expectativa que aceitei uma proposta que, hoje, me leva para longe dos que mais amo, minha família e meus amigos, e de uma cidade onde me adaptei tão bem e me sinto confortável.
+Se a nova fase em Curitiba for tão boa quanto a maringaense, ficarei satisfeito. Tudo indica que será. Foi por tal expectativa que aceitei uma proposta que, hoje, me leva para longe dos que mais amo, minha família e meus amigos, e de uma cidade onde me adaptei tão bem e me sinto confortável.
 
 A todos que tive o privilégio de conhecer aqui, de rir junto, de ajudar e receber ajuda, de amar, muitíssimo obrigado. Isso não é um "adeus", é apenas um "até logo”. Então, até logo!
