@@ -27,7 +27,7 @@ Vez ou outra, o manto do storytelling-isso-é-CONTENT cai e o e-mail marketing m
 
 Também descobri que Sarah faz aniversário no dia 8 de maio. “Sarah, comemore conosco!,” convidou a Samsung ano passado. Que surpresa será que a empresa está preparando para amanhã?
 
-Também me ocorreu que talvez a Sarah tenha se cadastrado nesse mailing porque ela quer mesmo saber quais são os lançamentos e as promoções da Samsung. Ela é uma cliente fiel: tem celular da Samsung, TV da Samsung, micro-ondas da Samsung, máquina de lava da Samsung. E ela quer mais, porque… ora, Samsung! Se for o caso, sinto muito por ter, mesmo sem culpa, atrapalhado a devoção da Sarah a eletrodomésticos sul-coreanos e afetado o faturamento da Samsung.
+Também me ocorreu que talvez a Sarah tenha se cadastrado nesse mailing porque ela queria mesmo saber dos lançamentos e das promoções da Samsung. Nessa linha do tempo, Sarah é uma cliente fiel: ela tem celular da Samsung, TV da Samsung, micro-ondas da Samsung, máquina de lavar da Samsung. E ela quer mais, porque… ora, Samsung! Se for o caso, sinto muito por ter, mesmo sem culpa, atrapalhado a devoção da Sarah a eletrodomésticos sul-coreanos e afetado o faturamento da Samsung.
 
 Aquela mensagem, a dos parabéns, reforçou a hipótese de que alguma Sarah errou o cadastro e direcionou os e-mails da Samsung para mim. Procurei por ela no grande diretório de seres humanos (Facebook). Existem algumas. Até mandei mensagem para uma, mas não tive resposta.
 
