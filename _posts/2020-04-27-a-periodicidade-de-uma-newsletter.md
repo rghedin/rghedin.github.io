@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "O que fica"
-date: 2017-04-21 09:00 -0300
+date: 2020-04-21 09:00 -0300
 ---
 Tem o Pocket, um aplicativo onde você salva textos para ler depois. Uso ele há algum tempo. Lá dentro, existe uma área que filtra os textos que marquei como favoritos. Hoje estava dando uma olhada nela e vi que aquilo é uma mina de ouro. Uma parte considerável das coisas significativas, poderosas a ponto de me mudar, está ali.
 
