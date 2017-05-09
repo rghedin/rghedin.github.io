@@ -25,7 +25,7 @@ Vez ou outra, o manto do storytelling-isso-é-CONTENT cai e o e-mail marketing m
 
 >“Sarah, quer dar um upgrade no seu smartphone? Aproveite esta promoção imperdível que a Samsung preparou para você.”
 
-Também descobri que Sarah faz aniversário no dia 8 de maio. “Sarah, comemore conosco!,” convidou a Samsung ano passado. Que surpresa será que a empresa está preparando para amanhã?
+Descobri que Sarah faz aniversário no dia 8 de maio. “Sarah, comemore conosco!,” convidou a Samsung ano passado. Que surpresa será que a empresa está preparando para amanhã?
 
 Também me ocorreu que talvez a Sarah tenha se cadastrado nesse mailing porque ela queria mesmo saber dos lançamentos e das promoções da Samsung. Nessa linha do tempo, Sarah é uma cliente fiel: ela tem celular da Samsung, TV da Samsung, micro-ondas da Samsung, máquina de lavar da Samsung. E ela quer mais, porque… ora, Samsung! Se for o caso, sinto muito por ter, mesmo sem culpa, atrapalhado a devoção da Sarah a eletrodomésticos sul-coreanos e afetado o faturamento da Samsung.
 
