@@ -7,7 +7,7 @@ Há dois anos, recebi um e-mail promocional da Samsung com o seguinte assunto: �
 
 Eu ainda não sei, mas achei aquilo tão deslocado, tão inusitado, que gostei. Tal qual o suposto Criador, a Samsung (ou a agência que eles contratam) escreveu certo por linhas tortas: um e-mail promocional, que seria solenemente ignorado, por um motivo totalmente alheio ao daquele o enviou deixou um (não-)cliente satisfeito.
 
-Como meu e-mail chegou lá, vá saber. Talvez ele esteja em um desses bancos de e-mails vendidos por R$ 10 com o nome trocado. Outra hipótese é a de que alguma Sarah Ghedin errou seu próprio e-mail no cadastro (as pessoas às vezes se submetem ao recebimento desse tipo de coisa) e, sem querer, me colocou em um mailing que proporciona pequenas alegrias recorrentes de total nonsense virtual.
+Como meu e-mail chegou lá, vá saber. Talvez ele esteja em um banco de e-mails, desses vendidos por R$ 10 no camelô, com o nome trocado. Outra hipótese é a de que alguma Sarah Ghedin errou seu próprio e-mail no cadastro (as pessoas às vezes se submetem ao recebimento desse tipo de coisa) e, sem querer, me colocou em um mailing que proporciona pequenas alegrias recorrentes de total nonsense virtual.
 
 Ah sim, porque aquela mensagem não foi a única. Quando recebi a primeira, tirei um print, [postei no Twitter](https://twitter.com/ghedin/status/604702892944064512) e a apaguei. Vida que segue. Mas, algumas semanas depois, chegou outra. E elas continuaram. Eu estou em um mailing da Samsung com o nome “Sarah."
 
@@ -25,7 +25,7 @@ Vez ou outra, o manto do storytelling-isso-é-CONTENT cai e o e-mail marketing m
 
 >“Sarah, quer dar um upgrade no seu smartphone? Aproveite esta promoção imperdível que a Samsung preparou para você.”
 
-Descobri que Sarah faz aniversário no dia 8 de maio. “Sarah, comemore conosco!,” convidou a Samsung ano passado. Que surpresa será que a empresa está preparando para amanhã?
+Descobri que Sarah faz aniversário no dia 8 de maio. “Sarah, comemore conosco!,” convidou a Samsung, por e-mail, ano passado. Que surpresa será que a empresa está preparando para amanhã?
 
 Também me ocorreu que talvez a Sarah tenha se cadastrado nesse mailing porque ela queria mesmo saber dos lançamentos e das promoções da Samsung. Nessa linha do tempo, Sarah é uma cliente fiel: ela tem celular da Samsung, TV da Samsung, micro-ondas da Samsung, máquina de lavar da Samsung. E ela quer mais, porque… ora, Samsung! Se for o caso, sinto muito por ter, mesmo sem culpa, atrapalhado a devoção da Sarah a eletrodomésticos sul-coreanos e afetado o faturamento da Samsung.
 
