@@ -5,6 +5,5 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 future: false
 timezone: UTC−03:00
-languages: ["pt-BR"]
 gems:
   - jekyll-feed
