@@ -21,7 +21,7 @@ Graças à minha mania de guardar cadernos e folhas da escola, pude encontrar co
 
 !['Rodrigo Passoli Ghedin' em japonês.]({{ site.baseurl }}/assets/nome-japones.jpg)
 
-Repare que a leitura é de trás para frente, e a escrita, verticalizada. Meu nome está escrito em katanana, um dos "alfabeto" japoneses.
+Repare que a leitura é de trás para frente, e a escrita, verticalizada. Meu nome está escrito em katanana, um dos "alfabetos" japoneses.
 
 Ontem, lendo meu agregador de feeds, me deparei com [uma manchete curiosa no Terra Tecnologia](http://tecnologia.terra.com.br/interna/0,,OI1102309-EI4802,00.html): "Site converte nomes para o japonês". Cliquei no link, que me levou à página [Japanese Translator](http://www.japanesetranslator.co.uk/your-name-in-japanese/).
 

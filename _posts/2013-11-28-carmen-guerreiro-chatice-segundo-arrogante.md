@@ -5,7 +5,7 @@ date: 2013-11-28 18:30 -02:00
 ---
 ![Queijo brie.]({{ site.baseurl }}/assets/queijo-brie.jpg)
 
-Sempre me impressiono quando aquele texto da Carmen Guerreiro, ["A arrogância segundo os medíocres"](http://ansiamente.com/2012/05/a-arrogancia-segundo-os-mediocres/), volta à tona no Facebook, invariavelmente endossado por comentários positivos ratificando uma ideia que, sob qualquer ponto de vista, parece bem errada.
+Sempre me impressiono quando aquele texto da Carmen Guerreiro, ["A arrogância segundo os medíocres"](http://ansiamente.com/2012/05/a-arrogancia-segundo-os-mediocres/), volta à tona no Facebook, invariavelmente seguido por comentários positivos endossando uma opinião que, sob qualquer ponto de vista, parece bem errada.
 
 No texto, Carmen reclama de como as pessoas ficam indiferentes ou até ofendidas quando ela relata suas viagens internacionais e seus gostos refinados. A certa altura, escreve:
 
