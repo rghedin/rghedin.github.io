@@ -3,7 +3,6 @@ email: ghedin@gmail.com
 permalink: /:title/
 markdown: kramdown
 theme: jekyll-theme-minimal
-future: false
 timezone: UTC−03:00
 gems:
   - jekyll-feed
