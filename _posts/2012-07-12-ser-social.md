@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ser social
-date: 2012-07-12 20:30:35.000000000 -03:00
+title: "Ser social"
+date: 2012-07-12 20:30 -03:00
 ---
 ![Tirinha genial sobre a solidão.]({{ site.baseurl }}/assets/LTGnenhumconviteblog.jpg "Longos dias.")
 

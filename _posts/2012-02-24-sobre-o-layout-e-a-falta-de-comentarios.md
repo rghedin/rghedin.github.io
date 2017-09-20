@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sobre o layout e a falta de comentários
+title: "Sobre o layout e a falta de comentários"
 date: 2012-02-24 16:09 -0200
 ---
 O novo tema do meu blog tem despertado reações negativas de amigos e leitores. Uns o classificam como "sem graça", outros "sem cor" (com esse eu concordo) e tem quem tenha dito que ficou "mais complicado". E ainda tem a questão dos comentários, ou melhor, da falta deles.

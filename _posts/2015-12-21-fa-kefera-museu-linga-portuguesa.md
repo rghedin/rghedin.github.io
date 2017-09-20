@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Em defesa da fã da Kéfera
-date: 2015-12-21 22:26:55.000000000 -02:00
+title: "Em defesa da fã da Kéfera"
+date: 2015-12-21 22:26 -02:00
 ---
 ![Tweet da discórdia.]({{ site.baseurl }}/assets/tweet-da-discordia.jpg)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Simplistic: Um tema minimalista'
+title: "Simplistic: Um tema minimalista"
 date: 2012-02-12 20:08 -0200
 ---
 Um monte de gente não vai gostar, mas o visual do meu blog agora é assim, minimalista. _Bem_ minimalista.

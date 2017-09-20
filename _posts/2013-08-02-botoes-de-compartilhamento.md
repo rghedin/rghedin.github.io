@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Botões de redes sociais são necessários na web?
+title: "Botões de redes sociais são necessários na web?"
 date: 2013-08-02 19:50 -03:00
 ---
 ![Redes sociais!!!]({{ site.baseurl }}/assets/social-icons.png)

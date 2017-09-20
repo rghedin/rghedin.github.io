@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Um mês de Gizmodo Brasil
+title: "Um mês de Gizmodo Brasil"
 date: 2012-04-18 20:34 0300
 ---
 Anteontem fiz [um mês de Gizmodo Brasil](http://www.gizmodo.com.br/conteudo/ola-rodrigo-ghedin-seja-bem-vindo-ao-gizmodo/). Tem sido legal, tem sido divertido e trabalhar com horário fixo, ainda que em regime home office, é uma delícia.
