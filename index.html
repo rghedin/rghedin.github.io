@@ -4,6 +4,9 @@ layout: default
 
     <ul class="listagem-posts">
     {% for post in site.posts %}
-      <li><aside>{{ post.date | date: "%-d %b %Y" }}</aside> <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+      {% case template %}
+        {% when 'default' %}
+          <li><aside>{{ post.date | date: "%-d %b %Y" }}</aside> <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+        {% endcase %}
     {% endfor %}
     </ul>

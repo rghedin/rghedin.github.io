@@ -4,5 +4,6 @@ permalink: /:title/
 markdown: kramdown
 theme: jekyll-theme-minimal
 timezone: UTC−03:00
+future: false
 gems:
   - jekyll-feed
