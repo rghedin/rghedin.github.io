@@ -2,6 +2,7 @@
 layout: post
 title: "Eu no Zero Hora, falando sobre namoro"
 date: 2007-08-08 21:50 -0300
+categories: texto
 ---
 No já longínquo mês de junho, recebi um e-mail bastante simpático de uma jornalista gaúcha chamada Patrícia Rocha. Ela, que trabalha no jornal [Zero Hora](http://www.clicrbs.com.br/jornais/zerohora/), estava fazendo uma matéria especial sobre o ceticismo masculino em relação ao Dia dos Namorados e, numa busca despretensiosa no Google, acabou encontrando dois textos publicados aqui.
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Sobre ser introvertido"
 date: 2014-08-16 14:00 -0300
+categories: texto
 ---
 Um dia estava no apartamento das minhas irmãs discutindo alguma coisa irrelevante com uma delas. A discussão se acentuou e, em dado momento, pedi um tempo e disse que escreveria uma resposta no Facebook.
 

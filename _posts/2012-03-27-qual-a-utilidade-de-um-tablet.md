@@ -2,6 +2,7 @@
 layout: post
 title: "Qual a utilidade de um tablet?"
 date: 2012-03-27 20:09 -0300
+categories: texto
 ---
 Li certa vez que você não deve, em uma análise de produto, escrever ao seu leitor que "só dá para entender usando".
 

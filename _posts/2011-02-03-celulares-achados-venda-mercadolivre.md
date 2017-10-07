@@ -2,6 +2,7 @@
 layout: post
 title: "Celulares achados à venda no MercadoLivre"
 date: 2011-02-03 19:11 -0200
+categories: texto
 ---
 Até eu, um "operador do direito" não praticante, sei que coisa achada tem que ser devolvida ao dono ou, caso esse não seja encontrado, à autoridade competente. [A regra é clara](http://www.planalto.gov.br/ccivil_03/Leis/2002/L10406.htm#descobertasecaoii):
 

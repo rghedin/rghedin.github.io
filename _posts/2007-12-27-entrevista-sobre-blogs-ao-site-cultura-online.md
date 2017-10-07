@@ -2,6 +2,7 @@
 layout: post
 title: "Entrevista sobre blogs ao site Cultura Online"
 date: 2007-12-27 08:25 -0200
+categories: texto
 ---
 Recentemente, no dia 17 de dezembro, para ser mais exato, [o termo "weblog" completou dez anos](http://macmagazine.com.br/blog/2007/12/18/weblog-completa-10-anos/). Muitos artigos foram publicados em sites mundo a fora, e eu, através deste humilde espaço, parei num deles.
 

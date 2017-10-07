@@ -2,6 +2,7 @@
 layout: post
 title: Loucamente equivocados
 date: 2015-06-28 18:22 -0300
+categories: texto
 ---
 ![Cena de Loucamente Apaixonados.]({{ site.baseurl }}/assets/loucamente-apaixonados2.jpg)
 

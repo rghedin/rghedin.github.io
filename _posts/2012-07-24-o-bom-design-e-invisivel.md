@@ -2,6 +2,7 @@
 layout: post
 title: "O bom design é invisível"
 date: 2012-07-24 22:02 -0300
+categories: texto
 ---
 > O bom design é invisível. O bom design de tela acontece no nível subatômico da microtipografia (a definição exata de uma fonte), na grade invisível da macrotipografia (como a fonte é usada) e no mundo invisível do design de interação e da arquitetura da informação. Input mínimo, output máximo, com o mínimo de pensamentos conscientes é no que designers de telas focam. E como designers de fontes e engenheiros, nós não buscamos a solução perfeita, mas o melhor equilíbrio.
 

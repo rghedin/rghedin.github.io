@@ -2,6 +2,7 @@
 layout: post
 title: "O menino da Internet"
 date: 2014-09-07 10:05 -03:00
+categories: texto
 ---
 Entre listas perdidas em alguns apps e a da Netflix, são vários os filmes que eu quero assistir, que um dia assistirei. A velocidade com que saem e que descubro novidades é maior do que o tempo livre para, de fato, dar cabo da lista, então ela continua crescendo, não importa quanto tempo dentro do disponível eu passe tentando diminui-la.
 

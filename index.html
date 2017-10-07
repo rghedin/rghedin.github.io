@@ -2,8 +2,30 @@
 layout: default
 ---
 
-    <ul class="listagem-posts">
-    {% for post in site.posts %}
-          <li><aside>{{ post.date | date: "%-d %b %Y" }}</aside> <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    <div class="listagem-posts">
+    {% for post in paginator.posts %}
+    {% if post.layout == 'post' %}
+      <div class="entry"><h2 style="font-size: 1.5em"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      {{ post.content }}
+    {% elsif post.layout == 'image' %}
+      <div class="entry entry_image">{{ post.content }}
+    {% elsif post.layout == 'quote' %}
+      <div class="entry entry_quote">{{ post.content }}
+    {% endif %}
+      <p class="date-home"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.date | date: "%-d %b %Y" }}</a></p></div>
     {% endfor %}
-    </ul>
+    </div>
+
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
+      {% else %}
+
+      {% endif %}
+      <span class="page_number ">{{ paginator.page }} de {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Próxima</a>
+      {% else %}
+
+      {% endif %}
+    </div>

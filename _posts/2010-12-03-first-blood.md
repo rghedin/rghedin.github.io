@@ -2,6 +2,7 @@
 layout: post
 title: "\"First Blood\""
 date: 2010-12-03 08:24 -0200
+categories: texto
 ---
 Dias atrás, zapeando em frente à TV, me deparei com _Rambo IV_. Assisti a um trecho e fui dormir, decidido a rever a quadrilogia do exércio-de-um-homem-só John Rambo.
 

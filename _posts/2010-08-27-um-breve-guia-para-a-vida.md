@@ -2,6 +2,7 @@
 layout: post
 title: "Um breve guia para a vida"
 date: 2010-08-27 18:16 -0300
+categories: texto
 ---
 > less TV, more [reading](http://zenhabits.net/how-to-instill-the-love-of-reading-in-your-child-or-yourself/)  
 > less [shopping](http://mnmlist.com/consumerism-vs-minimalism), more outdoors  

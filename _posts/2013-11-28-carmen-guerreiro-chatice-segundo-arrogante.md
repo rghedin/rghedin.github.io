@@ -2,6 +2,7 @@
 layout: post
 title: "A chatice segundo a arrogante"
 date: 2013-11-28 18:30 -02:00
+categories: texto
 ---
 ![Queijo brie.]({{ site.baseurl }}/assets/queijo-brie.jpg)
 

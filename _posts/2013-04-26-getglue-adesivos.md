@@ -2,6 +2,7 @@
 layout: post
 title: "Por que você usa o GetGlue? O que faz com aqueles adesivos?"
 date: 2013-04-26 20:20 -0300
+categories: texto
 ---
 ![Adesivos do GetGlue.]({{ site.baseurl }}/assets/getglue.jpg)
 

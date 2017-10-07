@@ -2,6 +2,7 @@
 layout: post
 title: "\"Como ser legal\", de Nick Hornby"
 date: 2006-05-19 10:23 -0300
+categories: texto
 ---
 Você é legal? Digo, você é bom? Katie Carr, a personagem principal do livro [_Como Ser Legal_](https://www.amazon.com.br/Como-Ser-Legal-Nick-Hornby/dp/8532513735/ref=as_li_ss_tl?ie=UTF8&qid=1486656265&sr=8-1&keywords=como+ser+legal&linkCode=ll1&tag=manudousua-20&linkId=05f7930d45ddc02c3558f48c1e6f9413), de Nick Hornby, faz esse difícil questionamento. Aliás, acho que o título traduzido ficou meio esquisito. O original é _How to be good_; uma tradução mais livre, menos literal e melhor poderia ser "como ser bom", o qual, para ser sincero, é mais condizente com a história. Mas, independente do título, que em ambos os idiomas faz o livro parecer autoajuda, trata-se de uma obra bem bacana, bem <em>legal</em>.
 

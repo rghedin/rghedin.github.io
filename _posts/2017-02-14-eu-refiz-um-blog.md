@@ -2,6 +2,7 @@
 layout: post
 title: "Eu (re)fiz um blog"
 date: 2017-02-14 18:20 -0200
+categories: texto
 ---
 Estava insatisfeito com este blog no WordPress. Sabe quando você exagera na dose ao resolver um problema? A solução funciona, mas parece tão… inadequada para o problema que passa a ser, ela própria, um incômodo. Era assim que me sentia com o WordPress para publicar essas poucas palavras esporádicas num blog que leva o meu nome.
 

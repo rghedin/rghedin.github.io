@@ -2,6 +2,7 @@
 layout: post
 title: "Quito, Equador"
 date: 2012-08-27 20:41 -03:00
+categories: texto
 ---
 Semana passada estive em Quito, Equador. Foi a minha primeira viagem internacional se descontadas as escapadas que costumava fazer para comprar coisas ali na fronteira, no Paraguai. Estive lá a trabalho, pelo Giz, a convite da Kaspersky para cobrir a 2ª Cúpula Latino Americana de Análise de Segurança. Foi bem sensacional.
 

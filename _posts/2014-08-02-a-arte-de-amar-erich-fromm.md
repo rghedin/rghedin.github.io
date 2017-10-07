@@ -2,6 +2,7 @@
 layout: post
 title: "\"A Arte de Amar\", de Erich Fromm"
 date: 2014-08-02 20:12 -03:00
+categories: texto
 ---
 Se o amor é uma arte, como alega Erich Fromm, é preciso compreendê-lo para praticá-lo em sua plenitude. Seu livro, de 1956, não é um manual; é, na realidade, uma abordagem maior do amor, uma visão dele como atitude:
 

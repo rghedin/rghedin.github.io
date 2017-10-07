@@ -2,6 +2,7 @@
 layout: post
 title: "Minha primeira vez em Curitiba"
 date: 2012-06-19 23:01 -0300
+categories: texto
 ---
 ![Quase toda a galera do segundo dia reunida.]({{ site.baseurl }}/assets/2012_wordcampctba_0281.jpg "Foto oficial do WordCamp Curitiba 2012.")
 

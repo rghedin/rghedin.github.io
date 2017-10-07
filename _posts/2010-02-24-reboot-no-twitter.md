@@ -2,6 +2,7 @@
 layout: post
 title: "Reboot no Twitter"
 date: 2010-02-24 19:04 -0300
+categories: texto
 ---
 Hoje dei unfollow em todas as pessoas que seguiam no Twitter. Eram quase 250; não sobrou uma. O motivo para essa atitude drástica foi um só: poder "respirar" lá dentro. Seguindo 250 pessoas, eu não conseguia acompanhar um contato sequer de forma satisfatória. Lia fragmentos das atualizações de cada um, era ajudado pelo ótimo [Nested Twitter Replies](http://meiobit.com/meio-bit/dicas/como-acompanhar-conversas-no-twitter), mas ainda assim a quantidade de ruído e o excesso de perfis que seguia por preguiça, reciprocidade ou conveniência, era muito grande, inviabilizando qualquer utilização mais aprofundada do microblog.
 

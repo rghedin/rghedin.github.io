@@ -2,6 +2,7 @@
 layout: post
 title: "Apenas mais um post sobre feeds, Google Reader e seus substitutos"
 date: 2013-07-03 17:13 -0300
+categories: texto
 ---
 ![Arte do Feedly desejando boa aposentadoria ao Google Reader.]({{ site.baseurl }}/assets/happy-retirement-gr.png)
 

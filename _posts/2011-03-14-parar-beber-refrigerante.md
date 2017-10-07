@@ -2,6 +2,7 @@
 layout: post
 title: "Parei de beber refrigerante"
 date: 2011-03-14 11:37 -0300
+categories: texto
 ---
 Ano passado, li [um texto no Papo de Homem](http://papodehomem.com.br/homem-que-e-homem-nao-toma-refrigerante/) que fez o sinal vermelho acender. Afinal, o refrigerante faz mesmo mal. Foi o mesmo caso com o macarrão instantâneo, o famoso miojo: a gente sabe que não presta, mas enquanto não [lê algo justificando o porquê de não prestar](http://www.diariodasaude.com.br/news.php?article=macarrao-instantaneo-tem-cinco-vezes-mais-gordura-tradicional&id=4672), não ligamos.
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Motivos e explicações"
 date: 2005-05-13 08:45 -0300
+categories: texto
 ---
 Quem me conhece sabe o certo repúdio que nutro para com os blogs. Não pelo sistema em si, mas pela forma que a maioria das pessoas cuida dos seus. Some-se a isso o fato de ser extremamente fácil e rápido criar um, e pronto: temos uma avalanche de blogs que não dizem nada com nada, só servem para entupir e bagunçar a Internet. O mais curioso é que, de cada dez blogs criados, se um vingar, é muito. Empolgação de principiante… Murcha tão rápido quanto floresce. Mas então, por que criar um blog, este blog?
 

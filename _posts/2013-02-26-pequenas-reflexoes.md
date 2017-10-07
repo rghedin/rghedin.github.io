@@ -2,6 +2,7 @@
 layout: post
 title: "Pequenas reflexões"
 date: 2013-02-26 10:12 -0300
+categories: texto
 ---
 As aulas estão bem legais, obrigado, e vez ou outra surgem alguns assuntos e exemplos que me fazem pensar bastante. Em sua maioria, aspectos elementares da comunicação em que a gente normalmente não repara. Micro-revelações diárias, pequenos momentos "eureka!" aqui e ali e, mais raramente, teorias que soam absurdas mas que, hey, isso faz muito sentido.
 

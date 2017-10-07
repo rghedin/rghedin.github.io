@@ -2,9 +2,9 @@
 layout: post
 title: "Querido diário"
 date: 2025-01-15 20:30 -02:00
-status:
+categories: texto
 ---
-2012 Ontem, numa conversa de bar, o assunto "diário" surgiu e, quando questionado, respondi que tenho um.
+Ontem, numa conversa de bar, o assunto "diário" surgiu e, quando questionado, respondi que tenho um.
 
 Eu tenho um diário.
 

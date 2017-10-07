@@ -2,6 +2,7 @@
 layout: post
 title: "A web esquisita"
 date: 2016-05-19 19:27 -03:00
+categories: texto
 ---
 Hoje alguém me perguntou por que os textos do [Manual do Usuário](http://www.manualdousuario.net) não estão no Medium. Eu achei a pergunta estranha. Por que estariam? Se ainda não tivesse um site, vá lá, mas temos um e, modéstia à parte, um muito bom, bonito e bem rápido.
 

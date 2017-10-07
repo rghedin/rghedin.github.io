@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "\"Muito Mais que 5inco Minutos\": O livro da vlogueira Kéfera Buchmann"
-date: 2015-12-07 22:26:55 -02:00
+date: 2015-12-07 22:26 -02:00
+categories: texto
 ---
 ![Kéfera]({{ site.baseurl }}/assets/kefera.jpeg)
 

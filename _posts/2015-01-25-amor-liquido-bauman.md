@@ -1,7 +1,8 @@
 ---
 layout: post
-title: O amor líquido de Bauman
+title: "O amor líquido de Bauman"
 date: 2015-01-25 21:19 -0200
+categories: texto
 ---
 ![Lábios em formato de coração]({{ site.baseurl }}/assets/lc3a1bios-em-formato-de-corac3a7c3a3o.jpg)
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Em vez do Facebook, uma newsletter"
 date: 2017-06-09 20:00 -0300
+categories: texto
 ---
 A primeira coisa que Richard Stallman pede, em suas palestras, é para que os presentes que tirarem fotos não as enviem para o Facebook, Instagram ou WhatsApp. A justificativa é de que ele não quer contribuir com mais matéria-prima para que serviços que não respeitam a privacidade do usuário continuem crescendo.
 
@@ -21,6 +22,6 @@ Newsletters são legais. Você assina elas em um site como este, na web aberta, 
 
 [Eu tenho uma newsletter](http://bit.ly/newsghedin). Até agora, não sabia muito bem para que usá-la, mas tive esse lampejo e acredito que ela possa servir de ponte entre tudo o que faço e as pessoas minimamente interessadas. Uma alternativa a redes sociais e outros ambientes filtrados e hostis à privacidade.
 
-Se você é uma dessas pessoas interessadas, [assine a minha newsletter](http://eepurl.com/cLePcH).
+Se você é uma dessas pessoas interessadas, [assine a minha newsletter](http://bit.ly/newsghedin).
 
 Ainda existe vida aqui fora.
