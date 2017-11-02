@@ -1,31 +1,232 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="pt-br">
+
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Blog do Rodrigo Ghedin by </title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,follow">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex,follow" />
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
+  <title>Pequenas reflexões</title>
+  <meta name="description" content="As aulas estão bem legais, obrigado, e vez ou outra surgem alguns assuntos e exemplos que me fazem pensar bastante. Em sua maioria, aspectos elementares da c...">
+
+  <style type="text/css">
+  a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+  }
+  img, img a {
+    border: none;
+  }
+  article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+  }
+  blockquote, q {
+    quotes: none;
+  }
+  blockquote:after, blockquote:before, q:after, q:before {
+    content: '';
+    content: none;
+  }
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  body {
+    background: #fff;
+    font: 19px 'Times New Roman', bodyfont, serif;
+    color: #000;
+    line-height: 30px;
+    font-weight: 100;
+    -webkit-font-smoothing: antialiased;
+  }
+  .single h1, h1, h2, h2.title {
+    font-size: 1.5em;
+    font-weight: lighter;
+    line-height: 34px;
+  }
+  h1, h2.title {
+    margin: 0;
+    color: #828282;
+    font-size: 2.5em
+  }
+  .sub-title {
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 80%
+  }
+  .single h1, h2, h4, h5 {
+    color: #000;
+  }
+  .single h1, h2 {
+    margin: 20px 0;
+    padding: 0;
+  }
+  .listagem-posts h2 {
+    font-size: 1.2em
+  }
+  h3 {
+    font-size: 1.1em;
+    line-height: 34px;
+    font-weight: lighter;
+  }
+  h4 {
+    font-size: 1em;
+  }
+  h5 {
+    font-size: 9pt;
+  }
+  img {
+    margin: 0 auto;
+    width: 100%;
+    height: auto
+  }
+  blockquote {
+    margin: 0;
+    padding-left: 12px;
+    border-left: 1px solid #ccc
+  }
+  b, strong {
+    font-weight: 700;
+  }
+  em, i {
+    font-style: italic;
+  }
+  p {
+    line-height: 30px;
+    margin: 30px auto;
+    text-indent: 0;
+  }
+  code {
+    font-size: 80%;
+    font-family: monospace;
+  }
+  hr {
+    border: .05em solid #e8e8e8;
+  }
+  small {
+    font-size: smaller;
+  }
+  h1 a, h2 {
+    text-decoration: none;
+  }
+  h1 a:link, h1 a:visited, h2 a:link, h2 a:visited {
+    color: #000;
+    text-decoration: none;
+  }
+  h1 a:hover, h2 a:hover {
+    color: #999;
+    text-decoration: none;
+  }
+  ol, ul {
+    list-style: none;
+    margin: 0 0 30px 30px;
+  }
+  ul {
+    list-style-type: disc
+  }
+  ol {
+    list-style: decimal
+  }
+  li {
+    padding: 6px 0
+  }
+  .listagem-posts .entry {
+    padding: 0;
+    list-style: none;
+    margin: 100px 0 200px 0
+  }
+  .entry_quote blockquote {
+    font-size: 135%;
+    border-left: 0;
+    padding-left: 0
+  }
+  .entry_quote p {
+    line-height: 135%
+  }
+  .date-home, .date-single {
+    font-family: sans-serif;
+    font-size: 70%;
+  }
+  .date-home {
+    margin-top: -20px;
+    text-align: right
+  }
+  ul.listagem-posts li {
+    margin: 12px 0;
+    clear: both;
+  }
+  ul.listagem-posts a {
+    margin-left: 100px;
+    display: block;
+  }
+  ul.listagem-posts aside {
+    float: left;
+    line-height: 30px;
+    width: 80px;
+    font-size: 70%;
+    color: #828282;
+    text-align: right;
+    font-family: sans-serif;
+  }
+  #container {
+    margin: 0 auto 20px;
+    max-width: 32em;
+    overflow: hidden;
+  }
+  .post {
+    margin-bottom: 100px;
+  }
+  .post .entry {
+    margin-bottom: 100px
+  }
+  header {
+    margin: 100px 0;
+  }
+  footer {
+    margin: 200px 0 100px;
+    clear: both;
+  }
+  .single .pagination .next {
+    float: right;
+    margin-bottom: 180px;
+  }
+  @media only screen and (max-width:960px) {
+    #container {
+      padding: 16px;
+    }
+    .entry_quote blockquote {
+      font-size: 115%
+    }
+    .entry_quote p {
+      line-height: 135%
+    }
+  }
+  </style>
+
+  <link rel="canonical" href="http://localhost:4000/pequenas-reflexoes/">
+  <link rel="alternate" type="application/rss+xml" title="Blog do Rodrigo Ghedin" href="/feed.xml">
+</head>
+
+
+  <body class="single">
+
+  <div id="container">
       <header>
-        <h1>Blog do Rodrigo Ghedin</h1>
-        <p></p>
-
-        
-
-        
-
-        
+      
+        <h2 class="title"><a href="/">Excertos</a></h2><p class="sub-title">por Rodrigo Ghedin</p>
+      
       </header>
-      <section>
 
-      		<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+      <div id="content">
+        		<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
 			<h1>Pequenas reflexões</h1>
 
@@ -61,16 +262,15 @@
 		  
 		</div>
 
+      </div>
 
-      </section>
       <footer>
-        
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
+    <a href="/">Início</a> | <a href="/sobre">Sobre</a> | <a href="/feed.xml">RSS</a> | <a href="http://bit.ly/newsghedin">Newsletter</a> | <a href="mailto:rodrigo@ghed.in">Contato</a> <img alt="Clicky" width="1" height="1" style="width: 1px; height: 1px" src="//in.getclicky.com/101047668ns.gif" />
+  </footer>
+
+</div>
 
 
-  
   </body>
+
 </html>
