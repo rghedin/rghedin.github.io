@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-23T15:41:29-03:00</updated><id>http://localhost:4000//</id><title type="html">Blog do Rodrigo Ghedin</title><entry><title type="html">Breve análise de uma newsletter pessoal</title><link href="http://localhost:4000/breve-analise-newsletter-pessoal/" rel="alternate" type="text/html" title="Breve análise de uma newsletter pessoal" /><published>2017-12-23T15:30:00-03:00</published><updated>2017-12-23T15:30:00-03:00</updated><id>http://localhost:4000/breve-analise-newsletter-pessoal</id><content type="html" xml:base="http://localhost:4000/breve-analise-newsletter-pessoal/">&lt;p&gt;Sempre que leio alguma coisa em um jornal, revista ou site, procuro saber &lt;em&gt;quem&lt;/em&gt; estou lendo. Embora nem sempre a assinatura corresponda ao verdadeiro autor ou esteja disponível, acho um diferencial importante — e que será ainda mais quando dividirmos a bancada na redação com robôs.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-16T20:37:03-03:00</updated><id>http://localhost:4000//</id><title type="html">Blog do Rodrigo Ghedin</title><entry><title type="html">Eu os li, contou. Por um segundo pensei…</title><link href="http://localhost:4000/eu-os-li-contou-por-um-segundo/" rel="alternate" type="text/html" title="Eu os li, contou. Por um segundo pensei…" /><published>2018-01-16T20:35:00-03:00</published><updated>2018-01-16T20:35:00-03:00</updated><id>http://localhost:4000/eu-os-li-contou-por-um-segundo</id><content type="html" xml:base="http://localhost:4000/eu-os-li-contou-por-um-segundo/">&lt;blockquote&gt;
+  &lt;p&gt;Eu os li, contou. Por um segundo pensei que ela mentia, apesar de nunca ter mentido sobre essas coisas, nunca mentiu sobre nada, na verdade. Nosso problema foi justamente esse, que não mentíamos. Fracassamos pelo desejo de ser honestos sempre.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;— Alejandro Zambra, &lt;em&gt;Formas de Voltar para Casa&lt;/em&gt;.&lt;/p&gt;</content><summary type="html">Eu os li, contou. Por um segundo pensei que ela mentia, apesar de nunca ter mentido sobre essas coisas, nunca mentiu sobre nada, na verdade. Nosso problema foi justamente esse, que não mentíamos. Fracassamos pelo desejo de ser honestos sempre.</summary></entry><entry><title type="html">Às vezes acho que ela sente vontade de ficar…</title><link href="http://localhost:4000/as-vezes-acho-que-ela-sente-vontade/" rel="alternate" type="text/html" title="Às vezes acho que ela sente vontade de ficar…" /><published>2018-01-16T20:30:00-03:00</published><updated>2018-01-16T20:30:00-03:00</updated><id>http://localhost:4000/as-vezes-acho-que-ela-sente-vontade</id><content type="html" xml:base="http://localhost:4000/as-vezes-acho-que-ela-sente-vontade/">&lt;blockquote&gt;
+  &lt;p&gt;Às vezes acho que ela sente vontade de ficar, de que a vida consista nisso, nada mais. É o que eu quero. Quero fazê-la desejar uma vida aqui. Quero enredá-la de novo no mundo do qual ela fugiu. Quero fazê-la acreditar que fugiu, que forçou sua história para se perder nas convenções de uma vida cômoda e supostamente feliz. Quero fazê-la odiar esse futuro plácido em Vermont. Me comporto, em resumo, como um imbecil.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;— Alejandro Zambra, &lt;em&gt;Formas de Voltar para Casa&lt;/em&gt;.&lt;/p&gt;</content><summary type="html">Às vezes acho que ela sente vontade de ficar, de que a vida consista nisso, nada mais. É o que eu quero. Quero fazê-la desejar uma vida aqui. Quero enredá-la de novo no mundo do qual ela fugiu. Quero fazê-la acreditar que fugiu, que forçou sua história para se perder nas convenções de uma vida cômoda e supostamente feliz. Quero fazê-la odiar esse futuro plácido em Vermont. Me comporto, em resumo, como um imbecil.</summary></entry><entry><title type="html">Breve análise de uma newsletter pessoal</title><link href="http://localhost:4000/breve-analise-newsletter-pessoal/" rel="alternate" type="text/html" title="Breve análise de uma newsletter pessoal" /><published>2017-12-23T15:50:00-03:00</published><updated>2017-12-23T15:50:00-03:00</updated><id>http://localhost:4000/breve-analise-newsletter-pessoal</id><content type="html" xml:base="http://localhost:4000/breve-analise-newsletter-pessoal/">&lt;p&gt;Sempre que leio alguma coisa em um jornal, revista ou site, procuro saber &lt;em&gt;quem&lt;/em&gt; estou lendo. Embora nem sempre a assinatura corresponda ao verdadeiro autor ou esteja disponível, acho um diferencial importante — e que será ainda mais quando dividirmos a bancada na redação com robôs.&lt;/p&gt;
 
 &lt;p&gt;Em muitos casos, coloco jornalistas e colunistas acima das publicações. Acompanho a pessoa, independentemente de onde ela escreva. É mais ou menos a ideia das redes sociais, mas livre da toxicidade e da impulsividade desses ambientes. Talvez uma comparação melhor seja com diretores, atores e autores. A individualidade, as linhas de raciocínio, os assuntos cobertos e os trejeitos da escrita se sobrepõem à publicação. (Embora haja uma relação direta; é difícil ter gente boa escrevendo em publicações ruins.)&lt;/p&gt;
 
@@ -128,60 +136,4 @@
 
 &lt;p&gt;Se você é uma dessas pessoas interessadas, &lt;a href=&quot;http://bit.ly/newsghedin&quot;&gt;assine a minha newsletter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Ainda existe vida aqui fora.&lt;/p&gt;</content><summary type="html">A primeira coisa que Richard Stallman pede, em suas palestras, é para que os presentes que tirarem fotos não as enviem para o Facebook, Instagram ou WhatsApp. A justificativa é de que ele não quer contribuir com mais matéria-prima para que serviços que não respeitam a privacidade do usuário continuem crescendo.</summary></entry><entry><title type="html">Fossem meus os tecidos bordados dos céus…</title><link href="http://localhost:4000/william-butler-yeats/" rel="alternate" type="text/html" title="Fossem meus os tecidos bordados dos céus…" /><published>2017-05-24T13:30:00-03:00</published><updated>2017-05-24T13:30:00-03:00</updated><id>http://localhost:4000/william-butler-yeats</id><content type="html" xml:base="http://localhost:4000/william-butler-yeats/">&lt;blockquote&gt;
-  &lt;p&gt;Fossem meus os tecidos bordados dos céus,&lt;br /&gt;
-Ornamentados com luz dourada e prateada,&lt;br /&gt;
-Os azuis e negros e pálidos tecidos&lt;br /&gt;
-Da noite, da luz e da meia-luz,&lt;br /&gt;
-Os estenderia sob os teus pés.&lt;br /&gt;
-Mas eu, sendo pobre, tenho apenas os meus sonhos.&lt;br /&gt;
-Eu estendi meus sonhos sob os teus pés&lt;br /&gt;
-Caminha suavemente, pois caminhas sobre meus sonhos.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;— William Butler Yeats&lt;/p&gt;</content><summary type="html">Fossem meus os tecidos bordados dos céus,
-Ornamentados com luz dourada e prateada,
-Os azuis e negros e pálidos tecidos
-Da noite, da luz e da meia-luz,
-Os estenderia sob os teus pés.
-Mas eu, sendo pobre, tenho apenas os meus sonhos.
-Eu estendi meus sonhos sob os teus pés
-Caminha suavemente, pois caminhas sobre meus sonhos.</summary></entry><entry><title type="html">Eu, Sarah e a Samsung</title><link href="http://localhost:4000/eu-sarah-e-a-samsung/" rel="alternate" type="text/html" title="Eu, Sarah e a Samsung" /><published>2017-05-07T19:50:00-03:00</published><updated>2017-05-07T19:50:00-03:00</updated><id>http://localhost:4000/eu-sarah-e-a-samsung</id><content type="html" xml:base="http://localhost:4000/eu-sarah-e-a-samsung/">&lt;p&gt;Há dois anos, recebi um e-mail promocional da Samsung com o seguinte assunto: “Sarah, participe da Promoção Samsung Galaxy Vingadores.” Várias interrogações surgiram na minha cabeça. Por que a Samsung acha que eu me importo com &lt;em&gt;Vingadores&lt;/em&gt;? Como meu e-mail foi parar lá? E, a mais importante: quem é Sarah?&lt;/p&gt;
-
-&lt;p&gt;Eu ainda não sei, mas achei aquilo tão deslocado, tão inusitado, que gostei. Tal qual o suposto Criador, a Samsung (ou a agência que eles contratam) escreveu certo por linhas tortas: um e-mail promocional, que seria solenemente ignorado, por um motivo totalmente alheio ao daquele o enviou deixou um (não-)cliente satisfeito.&lt;/p&gt;
-
-&lt;p&gt;Como meu e-mail chegou lá, vá saber. Talvez ele esteja em um banco de e-mails, desses vendidos por R$ 10 no camelô, com o nome trocado. Outra hipótese é a de que alguma Sarah Ghedin errou seu próprio e-mail no cadastro (as pessoas às vezes se submetem ao recebimento desse tipo de coisa) e, sem querer, me colocou em um mailing que proporciona pequenas alegrias recorrentes de total nonsense virtual.&lt;/p&gt;
-
-&lt;p&gt;Ah sim, porque aquela mensagem não foi a única. Quando recebi a primeira, tirei um print, &lt;a href=&quot;https://twitter.com/ghedin/status/604702892944064512&quot;&gt;postei no Twitter&lt;/a&gt; e a apaguei. Vida que segue. Mas, algumas semanas depois, chegou outra. E elas continuaram. Eu estou em um mailing da Samsung com o nome “Sarah.”&lt;/p&gt;
-
-&lt;p&gt;Fora de contexto, as mensagens são divertidíssimas. É quase como se a Samsung estivesse genuinamente preocupada com o meu desenvolvimento (ou o da Sarah) enquanto ser humano pela via esotérica, o que fica ainda mais esquisito se pensarmos que a ideia primordial ali é só vender celulares e outras bugigangas. Alguns exemplos:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Sarah, sua vida fica muito mais interessante com novas experiências.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Sarah, viva novas experiências e cause o efeito que você desejar.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Sarah, se você estava esperando um bom motivo para fazer o seu mundo girar, prepare-se: o momento é agora.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Sarah, descubra um universo de possibilidades.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Vez ou outra, o manto do storytelling-isso-é-CONTENT cai e o e-mail marketing mostra a sua verdadeira face, sem qualquer pudor:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Sarah, quer dar um upgrade no seu smartphone? Aproveite esta promoção imperdível que a Samsung preparou para você.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Descobri que Sarah faz aniversário no dia 8 de maio. “Sarah, comemore conosco!,” convidou a Samsung, por e-mail, ano passado. Que surpresa será que a empresa está preparando para amanhã?&lt;/p&gt;
-
-&lt;p&gt;Também me ocorreu que talvez a Sarah tenha se cadastrado nesse mailing porque ela queria mesmo saber dos lançamentos e das promoções da Samsung. Nessa linha do tempo, Sarah é uma cliente fiel: ela tem celular da Samsung, TV da Samsung, micro-ondas da Samsung, máquina de lavar da Samsung. E ela quer mais, porque… ora, Samsung! Se for o caso, sinto muito por ter, mesmo sem culpa, atrapalhado a devoção da Sarah a eletrodomésticos sul-coreanos e afetado o faturamento da Samsung.&lt;/p&gt;
-
-&lt;p&gt;Aquela mensagem, a dos parabéns, reforçou a hipótese de que alguma Sarah errou o cadastro e direcionou os e-mails da Samsung para mim. Procurei por ela no grande diretório de seres humanos (Facebook). Existem algumas. Até mandei mensagem para uma, mas não tive resposta.&lt;/p&gt;
-
-&lt;p&gt;E está tudo bem. É uma bobagem de nada, mas sempre esboço um sorriso quando a Samsung me chama de Sarah, por e-mail, tentando vender celulares com mensagens motivacionais. Obrigado, Samsung, e feliz aniversário, Sarah!&lt;/p&gt;</content><summary type="html">Há dois anos, recebi um e-mail promocional da Samsung com o seguinte assunto: “Sarah, participe da Promoção Samsung Galaxy Vingadores.” Várias interrogações surgiram na minha cabeça. Por que a Samsung acha que eu me importo com Vingadores? Como meu e-mail foi parar lá? E, a mais importante: quem é Sarah?</summary></entry></feed>
+&lt;p&gt;Ainda existe vida aqui fora.&lt;/p&gt;</content><summary type="html">A primeira coisa que Richard Stallman pede, em suas palestras, é para que os presentes que tirarem fotos não as enviem para o Facebook, Instagram ou WhatsApp. A justificativa é de que ele não quer contribuir com mais matéria-prima para que serviços que não respeitam a privacidade do usuário continuem crescendo.</summary></entry></feed>
