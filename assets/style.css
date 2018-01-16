@@ -1,0 +1,94 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Início */
+
+body {background: #fff; font: 18px 'Times New Roman', Hoefler Text, bodyfont, serif; color: #000; line-height: 30px; font-weight: 100; -webkit-font-smoothing: antialiased;}
+
+h1, h2.title {margin: 0; line-height: 34px; font-size: 1.5em; color:#828282; font-weight:lighter;}
+h2, .single h1 {margin: 20px 0; font-size: 1.5em; color:#000; line-height:34px; font-weight:lighter; padding: 0;}
+	h2 b { font-weight: normal;}
+	.entry h2 {font-size:1.2em;}
+h3 {font-size: 1.1em; line-height: 34px; font-weight: lighter;}
+h4 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 1em; color:#000000;}
+h5 {font-size: 9pt; color:#000000;}
+
+img{border:none; margin: 0 auto; max-width: 100%; height: auto;}
+img a{border:none;}
+blockquote{border-left:1px solid #A5ABAB; margin:0px; padding:0 12px 0 12px;}
+
+strong, b {font-weight: bold;}
+em, i {font-style: italic;}
+
+p{line-height: 30px; margin:30px auto; text-indent: 0px;}
+
+code {font-size: 80%; font-family: monospace;}
+hr {border: .05em solid #e8e8e8;}
+small{font-size: smaller;}
+
+h2, h1 a {text-decoration: none;}
+h2 a:link, h1 a:link {color: #000; text-decoration: none;}
+h2 a:visited, h1 a:visited {color: #000; text-decoration: none;}
+h2 a:hover, h1 a:hover {color: #999; text-decoration: none;}
+
+ul, ol {margin: 0 0 30px 30px;}
+ul {list-style-type: disc; }
+ol {list-style: decimal;}
+li{padding: 6px 0;}
+
+ul.listagem-posts {padding: 0; list-style: none; margin: 0 0 100px 0;}
+ul.listagem-posts li {margin: 12px 0; clear: both;}
+ul.listagem-posts a {margin-left: 100px; display: block;}
+ul.listagem-posts aside {float: left; width: 100px; font-size: smaller; color: #828282;}
+
+#container {margin:0 auto 20px; max-width: 32em; overflow: hidden;}
+.post {margin-bottom: 100px;}
+header {margin: 100px 0;}
+footer {margin: 180px 0 100px; clear:both;}
+/*.pagination {margin: 100px 0;}*/
+.single .pagination .next {float: right; margin-bottom: 180px;}
+
+@media only screen and (max-width: 960px) {
+	#container {padding: 16px;}
+}
