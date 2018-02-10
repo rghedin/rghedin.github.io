@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -267,18 +271,18 @@
 
 <p><small>Foto do topo: <a href="http://www.flickr.com/photos/49503156729@N01/12390004/">Wade Kelly/Flickr</a>.</small></p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">28 Nov 2013</a></p>
+				<p class="date-home"><a class="post-link" href="">28 Nov 2013</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/27/">&laquo; 27</a>
+		    &laquo; Anterior: <a class="prev" href="/27/">27</a><br />
 		  
 		  
-		    <a class="next" href="/a-arte-de-amar-erich-fromm/">"A Arte de Amar", de Erich Fromm &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/a-arte-de-amar-erich-fromm/">"A Arte de Amar", de Erich Fromm</a> &raquo;</span>
 		  
 		</div>
 

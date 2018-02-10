@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -261,18 +265,18 @@
 
 <p>Se Motorola, HTC, Samsung, LG, a própria Nokia e tantas outras continuam lançando três, seis, dez aparelhos por ano, na tentativa de fazer com que nós, consumidores, sintamos a necessidade de trocar de celular como quem troca de roupa, eu fico na minha, satisfeito com o que tenho e explorando o potencial das minhas propriedades no limite. Meu bolso e minha consciência agradecem.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">14 Oct 2010</a></p>
+				<p class="date-home"><a class="post-link" href="">14 Oct 2010</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/um-breve-guia-para-a-vida/">&laquo; Um breve guia para a vida</a>
+		    &laquo; Anterior: <a class="prev" href="/um-breve-guia-para-a-vida/">Um breve guia para a vida</a><br />
 		  
 		  
-		    <a class="next" href="/24/">24 &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/24/">24</a> &raquo;</span>
 		  
 		</div>
 

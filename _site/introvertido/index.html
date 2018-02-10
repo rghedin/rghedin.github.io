@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -253,18 +257,18 @@
 
 <p>Depois que me descobri e me aceitei como introvertido, por um momento temi usar isso como muleta para me fechar ainda mais. Só que o que aconteceu foi diferente: por me conhecer melhor, passei a responder aos estímulos de forma consciente e vez ou outra até desafiar essa minha pré-disposição. E, o mais importante, deixei de me recriminar quando, por qualquer motivo, resolvo ficar em casa vendo filme em vez de ir para a balada num sábado.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">16 Aug 2014</a></p>
+				<p class="date-home"><a class="post-link" href="">16 Aug 2014</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/a-arte-de-amar-erich-fromm/">&laquo; "A Arte de Amar", de Erich Fromm</a>
+		    &laquo; Anterior: <a class="prev" href="/a-arte-de-amar-erich-fromm/">"A Arte de Amar", de Erich Fromm</a><br />
 		  
 		  
-		    <a class="next" href="/aaron-swartz/">O menino da Internet &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/aaron-swartz/">O menino da Internet</a> &raquo;</span>
 		  
 		</div>
 

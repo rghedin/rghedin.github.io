@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -256,18 +260,18 @@
 
 <p>Ainda veremos muitos erros e acertos na busca por alternativas até que alguma emplaque. Na real, se alguma emplacar, se for rentável, acessível e melhor que os anúncios em retorno e privacidade, todas essas experimentações e eventuais fracassos terão valido a pena.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">13 Jul 2012</a></p>
+				<p class="date-home"><a class="post-link" href="">13 Jul 2012</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/ser-social/">&laquo; Ser social</a>
+		    &laquo; Anterior: <a class="prev" href="/ser-social/">Ser social</a><br />
 		  
 		  
-		    <a class="next" href="/o-bom-design-e-invisivel/">O bom design é invisível &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/o-bom-design-e-invisivel/">O bom design é invisível</a> &raquo;</span>
 		  
 		</div>
 

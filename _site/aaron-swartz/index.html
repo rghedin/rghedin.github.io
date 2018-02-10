@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -245,18 +249,18 @@
 
 <p>Swartz tinha um blog, o Raw Thought. Em seus últimos meses de vida, ele publicou <a href="http://www.aaronsw.com/weblog/rawnerve">uma série de posts chamada Raw Nerve</a> onde, com sua visão analítica, junta pedaços de conhecimento, remixa e tenta extrair bons insights para sermos pessoas melhores.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">7 Sep 2014</a></p>
+				<p class="date-home"><a class="post-link" href="">7 Sep 2014</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/introvertido/">&laquo; Sobre ser introvertido</a>
+		    &laquo; Anterior: <a class="prev" href="/introvertido/">Sobre ser introvertido</a><br />
 		  
 		  
-		    <a class="next" href="/28/">28 &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/28/">28</a> &raquo;</span>
 		  
 		</div>
 

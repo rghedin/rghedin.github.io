@@ -7,9 +7,9 @@ layout: default
 
 			<div class="entry entry_quote">
 				{{ content }}
-			</div>
 
-			<p>Publicado em<br /><a href="{{ post.url | relative_url }}">{{ page.date | date: "%-d %b %Y" }}</a></p>
+				<p class="date-home"><a class="post-link" href="{{ post.url | relative_url }}">{{ page.date | date: "%-d %b %Y" }}</a></p>
+			</div>
 
 		</article>
 

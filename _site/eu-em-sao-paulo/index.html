@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -279,18 +283,18 @@
 
 <p>Agradecimentos à Microsoft, por ter possibilitado tudo isso, ao André, que foi me receber no aeroporto, ao pessoal que foi ao I Encontro Microsoft com Blogueiros, e à Pat, ao Tuca e ao Fugita, que junto com o André, propocionaram momentos divertidíssimos no Fran’s.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">25 May 2007</a></p>
+				<p class="date-home"><a class="post-link" href="">25 May 2007</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/meu-nome-em-japones/">&laquo; Meu nome em japonês</a>
+		    &laquo; Anterior: <a class="prev" href="/meu-nome-em-japones/">Meu nome em japonês</a><br />
 		  
 		  
-		    <a class="next" href="/eu-no-zero-hora-falando-sobre-namoro/">Eu no Zero Hora, falando sobre namoro &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/eu-no-zero-hora-falando-sobre-namoro/">Eu no Zero Hora, falando sobre namoro</a> &raquo;</span>
 		  
 		</div>
 

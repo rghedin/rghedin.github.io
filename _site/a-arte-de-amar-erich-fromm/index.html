@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -255,18 +259,18 @@
   <p>Se é verdade, como venho tentando mostrar, que o amor é a única resposta sadia e satisfatória ao problema da existência humana, então qualquer sociedade que exclua, relativamente, o desenvolvimento do amor deve, no fim das contas, perecer vitimada por sua própria contradição com as necessidades básicas da natureza humana.</p>
 </blockquote>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">2 Aug 2014</a></p>
+				<p class="date-home"><a class="post-link" href="">2 Aug 2014</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/carmen-guerreiro-chatice-segundo-arrogante/">&laquo; A chatice segundo a arrogante</a>
+		    &laquo; Anterior: <a class="prev" href="/carmen-guerreiro-chatice-segundo-arrogante/">A chatice segundo a arrogante</a><br />
 		  
 		  
-		    <a class="next" href="/introvertido/">Sobre ser introvertido &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/introvertido/">Sobre ser introvertido</a> &raquo;</span>
 		  
 		</div>
 

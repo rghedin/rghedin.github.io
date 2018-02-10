@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -263,18 +267,18 @@
 
 <p>O bacana da Internet é que há exemplos de boas ideias de todos os tamanhos possíveis. Na outra ponta podemos citar o <a href="http://www.theverge.com">Verge</a> — altos investimentos, editorial frenético, podcast, talk show (bem bacana), tudo muito grandioso. Funciona? Também. Mas não é o único caminho, como os dois exemplos acima e tantos outros provam. Não é preciso ser grande para ser bem sucedido. O desafio nem está no crescimento, mas sim em encontrar um meio de subsistência. E isso, para grandes e pequenos, é sempre bem complicado. Considere-se sortudo, ou muito esperto, se você conseguiu atingir esse patamar.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">19 Dec 2012</a></p>
+				<p class="date-home"><a class="post-link" href="">19 Dec 2012</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/26/">&laquo; 26</a>
+		    &laquo; Anterior: <a class="prev" href="/26/">26</a><br />
 		  
 		  
-		    <a class="next" href="/pequenas-reflexoes/">Pequenas reflexões &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/pequenas-reflexoes/">Pequenas reflexões</a> &raquo;</span>
 		  
 		</div>
 

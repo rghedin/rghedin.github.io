@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -251,18 +255,18 @@
 
 <p>Anos anteriores: <a href="/24/">24</a>, <a href="/25/">25</a>, <a href="/26/">26</a>, <a href="/27/">27</a>, <a href="/28/">28</a> e <a href="/29/">29</a>.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">8 Nov 2016</a></p>
+				<p class="date-home"><a class="post-link" href="">8 Nov 2016</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/donald-hall/">&laquo; A few hours a week, Carole does my laundry…</a>
+		    &laquo; Anterior: <a class="prev" href="/donald-hall/">A few hours a week, Carole does my laundry…</a><br />
 		  
 		  
-		    <a class="next" href="/eu-refiz-um-blog/">Eu (re)fiz um blog &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/eu-refiz-um-blog/">Eu (re)fiz um blog</a> &raquo;</span>
 		  
 		</div>
 

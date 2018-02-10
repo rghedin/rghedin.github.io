@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -259,18 +263,18 @@ Significa “Ri”.</p>
 
 <p>“Rodrigo” em japonês. Legal, não?</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">22 Aug 2006</a></p>
+				<p class="date-home"><a class="post-link" href="">22 Aug 2006</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/como-ser-legal-de-nick-hornby/">&laquo; "Como ser legal", de Nick Hornby</a>
+		    &laquo; Anterior: <a class="prev" href="/como-ser-legal-de-nick-hornby/">"Como ser legal", de Nick Hornby</a><br />
 		  
 		  
-		    <a class="next" href="/eu-em-sao-paulo/">Eu em São Paulo &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/eu-em-sao-paulo/">Eu em São Paulo</a> &raquo;</span>
 		  
 		</div>
 

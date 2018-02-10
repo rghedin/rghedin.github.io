@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -251,18 +255,18 @@ less <a href="http://zenhabits.net/12-practical-steps-for-learning-to-go-with-th
 
 <p>O guia acima, do <a href="http://zenhabits.net/brief-guide/">Leo Babauta</a>, é uma versão resumida (ou minimalista) para começar a entender.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">27 Aug 2010</a></p>
+				<p class="date-home"><a class="post-link" href="">27 Aug 2010</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/reboot-no-twitter/">&laquo; Reboot no Twitter</a>
+		    &laquo; Anterior: <a class="prev" href="/reboot-no-twitter/">Reboot no Twitter</a><br />
 		  
 		  
-		    <a class="next" href="/porque-troquei-android-por-symbian/">Por que troquei um Android novo por um Symbian velho &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/porque-troquei-android-por-symbian/">Por que troquei um Android novo por um Symbian velho</a> &raquo;</span>
 		  
 		</div>
 

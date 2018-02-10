@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -252,18 +256,18 @@
 
 <p>Depois de algum tempo, meu controle com a alavanca defeituosa estava novo de novo e o que parecia um prejuízo de US$ 30 (preço de um novo lá fora) foi resolvido com 1/3 desse valor e um pouquinho de trabalho.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">29 Aug 2012</a></p>
+				<p class="date-home"><a class="post-link" href="">29 Aug 2012</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/quito-equador/">&laquo; Quito, Equador</a>
+		    &laquo; Anterior: <a class="prev" href="/quito-equador/">Quito, Equador</a><br />
 		  
 		  
-		    <a class="next" href="/26/">26 &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/26/">26</a> &raquo;</span>
 		  
 		</div>
 

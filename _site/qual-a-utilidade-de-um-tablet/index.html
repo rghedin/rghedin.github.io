@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -320,18 +324,18 @@
 
 <p>Este texto não é uma tentativa de vender tablets, mas sim uma longa resposta a uma pergunta quase inocente feita por alguém próximo e que, tenho certeza, está na mente de muita gente ainda. Tablets são caros e com exceção do iPad, todos ainda muito ruins em entregar uma experiência decente. Esse cenário tende a mudar com o tempo, mas enfim, eis as razões pelas quais um cidadão médio, hoje, adquire uma dessas tábuas mágicas. Elas são bastante divertidas.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">27 Mar 2012</a></p>
+				<p class="date-home"><a class="post-link" href="">27 Mar 2012</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/25/">&laquo; 25</a>
+		    &laquo; Anterior: <a class="prev" href="/25/">25</a><br />
 		  
 		  
-		    <a class="next" href="/como-faz-para-virar-adulto/">Como faz para virar adulto? &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/como-faz-para-virar-adulto/">Como faz para virar adulto?</a> &raquo;</span>
 		  
 		</div>
 

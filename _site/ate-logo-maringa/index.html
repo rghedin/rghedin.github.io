@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -247,18 +251,18 @@
 
 <p>A todos que tive o privilégio de conhecer aqui, de rir junto, de ajudar e receber ajuda, de amar, muitíssimo obrigado. Isso não é um “adeus”, é apenas um “até logo”. Então, até logo!</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">30 Mar 2017</a></p>
+				<p class="date-home"><a class="post-link" href="">30 Mar 2017</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/eu-refiz-um-blog/">&laquo; Eu (re)fiz um blog</a>
+		    &laquo; Anterior: <a class="prev" href="/eu-refiz-um-blog/">Eu (re)fiz um blog</a><br />
 		  
 		  
-		    <a class="next" href="/eu-sarah-e-a-samsung/">Eu, Sarah e a Samsung &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/eu-sarah-e-a-samsung/">Eu, Sarah e a Samsung</a> &raquo;</span>
 		  
 		</div>
 

@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -263,18 +267,18 @@
 
 <p><small><sup><a name="nota3"></a>3</sup> Já enviei livros pelo Trocando Livros. O livralivro me pareceu bastante sério, alguns meses atrás recebi um email do idealizador do site. E o Skoob é velho conhecido, escrevi sobre ele (a porção rede social) <a href="http://meiobit.com/38810/skoob-rede-social-brasileira-de-livros/" title="Skoob: rede social brasileira de livros">no Meio Bit</a> e, na ocasião, conversei com alguns dos administradores do site. Enfim, todos recomendados!</small></p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">4 Jun 2011</a></p>
+				<p class="date-home"><a class="post-link" href="">4 Jun 2011</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/meu-primeiro-bilhetinho-amoroso/">&laquo; Meu primeiro bilhetinho amoroso</a>
+		    &laquo; Anterior: <a class="prev" href="/meu-primeiro-bilhetinho-amoroso/">Meu primeiro bilhetinho amoroso</a><br />
 		  
 		  
-		    <a class="next" href="/de-sedentario-a-atleta-amador/">De sedentário a atleta amador &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/de-sedentario-a-atleta-amador/">De sedentário a atleta amador</a> &raquo;</span>
 		  
 		</div>
 

@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -251,18 +255,18 @@
 
 <p>Se quiser ser avisado dos futuros posts, o que é uma boa já que não tenho ideia de quando escreverei aqui novamente, <a href="https://blog.ghed.in/feed.xml">assine o feed</a> ou <a href="http://bit.ly/newsghedin">esta newsletter</a> que acabei de criar só para isso. E obrigado pela sua atenção!</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">14 Feb 2017</a></p>
+				<p class="date-home"><a class="post-link" href="">14 Feb 2017</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/30/">&laquo; 30</a>
+		    &laquo; Anterior: <a class="prev" href="/30/">30</a><br />
 		  
 		  
-		    <a class="next" href="/ate-logo-maringa/">Até logo, Maringá &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/ate-logo-maringa/">Até logo, Maringá</a> &raquo;</span>
 		  
 		</div>
 

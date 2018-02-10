@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -245,18 +249,18 @@
 
 <p>Mal posso esperar para ler os outros títulos de Hornby (<em>Alta fidelidade</em>, <em>Um grande garoto</em> e <em>Febre de bola</em>).</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">19 May 2006</a></p>
+				<p class="date-home"><a class="post-link" href="">19 May 2006</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/motivos-e-explicacoes/">&laquo; Motivos e explicações</a>
+		    &laquo; Anterior: <a class="prev" href="/motivos-e-explicacoes/">Motivos e explicações</a><br />
 		  
 		  
-		    <a class="next" href="/meu-nome-em-japones/">Meu nome em japonês &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/meu-nome-em-japones/">Meu nome em japonês</a> &raquo;</span>
 		  
 		</div>
 

@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -249,18 +253,18 @@
 
 <p>Estas acima são três das fotos que fiz durante a viagem — as minhas favoritas. Para ver essas e outras em tamanho maior, <a href="http://www.flickr.com/photos/rghedin/sets/72157630200678524/">vá para o Flickr</a>. A foto que abre o post, com a galera do WordCamp, foi tirada por Oscar Cidri. Tem mais <a href="http://2012.curitiba.wordcamp.org/fotos/">no site oficial</a>.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">19 Jun 2012</a></p>
+				<p class="date-home"><a class="post-link" href="">19 Jun 2012</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/voce-nao-e-tao-esperto/">&laquo; "Você não é tão esperto quanto pensa"</a>
+		    &laquo; Anterior: <a class="prev" href="/voce-nao-e-tao-esperto/">"Você não é tão esperto quanto pensa"</a><br />
 		  
 		  
-		    <a class="next" href="/vestibular-de-inverno-da-uem/">Eu vestibulando — de novo &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/vestibular-de-inverno-da-uem/">Eu vestibulando — de novo</a> &raquo;</span>
 		  
 		</div>
 

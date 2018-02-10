@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -253,18 +257,18 @@
 
 <p>Cada capítulo é uma desilusão do ser humano. Religião, misticismo, coincidências, sentimentos e emoções, reações que de fora parecem estúpidas, mas que nas quais a maioria incorre quando se vê na mesma situação, basicamente qualquer coisa que você pensa e como você pensa, tudo isso é desconstruído pelo livro, que sempre recorre a estudos e aqueles testes que a psicologia adora fazer para pegar os sujeitos analisados no pulo. É uma leitura bem interessante que o leva a concluir, por si mesmo e por mais dolorido que seja, que você não é tão esperto. Se serve de consolo, ninguém é.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">25 May 2012</a></p>
+				<p class="date-home"><a class="post-link" href="">25 May 2012</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/como-faz-para-virar-adulto/">&laquo; Como faz para virar adulto?</a>
+		    &laquo; Anterior: <a class="prev" href="/como-faz-para-virar-adulto/">Como faz para virar adulto?</a><br />
 		  
 		  
-		    <a class="next" href="/minha-primeira-vez-em-curitiba/">Minha primeira vez em Curitiba &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/minha-primeira-vez-em-curitiba/">Minha primeira vez em Curitiba</a> &raquo;</span>
 		  
 		</div>
 

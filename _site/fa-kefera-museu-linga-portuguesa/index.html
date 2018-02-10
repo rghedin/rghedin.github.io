@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -267,18 +271,18 @@
 
 <p>Independentemente do que lhe aconteça, foi injusto e, em certa medida, cruel, o que fizeram com ela hoje. Da mesma forma que tantos cobram cuidado na hora de digitar asneiras que acabam na Internet, precisamos ter um pouco mais de cuidado com outro gesto feito com a mão: o do apontar dedos.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">21 Dec 2015</a></p>
+				<p class="date-home"><a class="post-link" href="">21 Dec 2015</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/muito-mais-que-5inco-minutos/">&laquo; "Muito Mais que 5inco Minutos": O livro da vlogueira Kéfera Buchmann</a>
+		    &laquo; Anterior: <a class="prev" href="/muito-mais-que-5inco-minutos/">"Muito Mais que 5inco Minutos": O livro da vlogueira Kéfera Buchmann</a><br />
 		  
 		  
-		    <a class="next" href="/that-poor-girl/">That poor girl. She doesn't know that… &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/that-poor-girl/">That poor girl. She doesn't know that…</a> &raquo;</span>
 		  
 		</div>
 

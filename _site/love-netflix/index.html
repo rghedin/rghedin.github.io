@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -249,18 +253,18 @@
 
 <p>Nesse ponto a série retrata o que, muitos dizem, é uma característica dessa nossa geração: o egoísmo que se impregna em todas as áreas, inclusive a amorosa. Gus e Mickey se querem por motivos muito egoístas — ele, alguém para dar sentido às coisas, para ser a sua <a href="http://ghedin.tumblr.com/post/124368923110/os-homens-sempre-dizem-isso-como-o-elogio">garota legal</a>; ela, para se consertar, colar os cacos em que sua vida desregrada e detonada pelos ex-namorados parasitas virou. O amor tem muitas facetas, inebria as pessoas, as levam a cometer loucuras. Talvez o que <em>Love</em> tenha nos mostrado nesta primeira temporada seja uma delas, das mais tortas, incompreensíveis e incomuns, a ponto de se questionar se isso é, afinal, amor.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">29 Feb 2016</a></p>
+				<p class="date-home"><a class="post-link" href="">29 Feb 2016</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/tinder-comics/">&laquo; Tinder</a>
+		    &laquo; Anterior: <a class="prev" href="/tinder-comics/">Tinder</a><br />
 		  
 		  
-		    <a class="next" href="/liking-is-for-cowards/">Liking is for cowards. Go for what hurts. &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/liking-is-for-cowards/">Liking is for cowards. Go for what hurts.</a> &raquo;</span>
 		  
 		</div>
 

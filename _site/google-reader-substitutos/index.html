@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -271,18 +275,18 @@
 
 <p>E lembre-se: existe uma infinidade de apps e soluções que confiam no RSS para funcionar. É uma tecnologia aberta, livre e <a href="http://www.marco.org/2013/07/03/lockdown">uma engrenagem muito importante para o funcionamento da Internet</a>. É algo maior que o Google Reader ou que qualquer outro leitor.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">3 Jul 2013</a></p>
+				<p class="date-home"><a class="post-link" href="">3 Jul 2013</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/como-fazer-um-blog/">&laquo; Como fazer um blog, edição 2013</a>
+		    &laquo; Anterior: <a class="prev" href="/como-fazer-um-blog/">Como fazer um blog, edição 2013</a><br />
 		  
 		  
-		    <a class="next" href="/botoes-de-compartilhamento/">Botões de redes sociais são necessários na web? &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/botoes-de-compartilhamento/">Botões de redes sociais são necessários na web?</a> &raquo;</span>
 		  
 		</div>
 

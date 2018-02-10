@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -247,18 +251,18 @@
 
 <p>Desde que saí da casa dos meus pais, nunca mais morei em casa — sempre em apartamento. Acho mais prático e seguro. Mas lidar com a terra (comprada em um saquinho, mas vá lá), colher manjericão e cebolinha frescos enquanto cozinho, cultivar as plantas… tudo isso tem feito eu refletir sobre onde quero morar quando chegar a hora de me fixar num endereço. De repente, estar mais próximo do chão e ter um quintal à disposição para plantar passou a ser um aspecto importante.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">29 Jul 2017</a></p>
+				<p class="date-home"><a class="post-link" href="">29 Jul 2017</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/tweet-viraliza/">&laquo; O que acontece quando um tweet viraliza?</a>
+		    &laquo; Anterior: <a class="prev" href="/tweet-viraliza/">O que acontece quando um tweet viraliza?</a><br />
 		  
 		  
-		    <a class="next" href="/pica-pau/">Pica-Pau &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/pica-pau/">Pica-Pau</a> &raquo;</span>
 		  
 		</div>
 

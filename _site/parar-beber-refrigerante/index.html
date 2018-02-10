@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -243,18 +247,18 @@
 
 <p>A situação era mais crítica aos domingos, quando costumava esbanjar no refrigerante. Ao fim do dia, o “peso” no estômago era bem incômodo, em parte também agravado pelos excessos de comida do dia. Desde que cortei o refrigerante, a ausência ddele no organismo se revelou ótima: não fico mais com a sensação de “estufamento”, nem após as refeições, nem horas depois, durante a digestão.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">14 Mar 2011</a></p>
+				<p class="date-home"><a class="post-link" href="">14 Mar 2011</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/celulares-achados-venda-mercadolivre/">&laquo; Celulares achados à venda no MercadoLivre</a>
+		    &laquo; Anterior: <a class="prev" href="/celulares-achados-venda-mercadolivre/">Celulares achados à venda no MercadoLivre</a><br />
 		  
 		  
-		    <a class="next" href="/meu-primeiro-bilhetinho-amoroso/">Meu primeiro bilhetinho amoroso &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/meu-primeiro-bilhetinho-amoroso/">Meu primeiro bilhetinho amoroso</a> &raquo;</span>
 		  
 		</div>
 

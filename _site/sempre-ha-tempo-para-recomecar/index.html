@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -261,18 +265,18 @@
 
 <p>Mas aí pensei em outro grupo, também grande, daqueles que antes mesmo de chegar à maioridade se veem tendo que tomar uma decisão que, acham, é para o resto da vida e depois, por quatro ou cinco anos, se censuram e sofrem em silêncio por uma escolha mal feita precoce e forçadamente. Este texto é para vocês.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">12 May 2013</a></p>
+				<p class="date-home"><a class="post-link" href="">12 May 2013</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/getglue-adesivos/">&laquo; Por que você usa o GetGlue? O que faz com aqueles adesivos?</a>
+		    &laquo; Anterior: <a class="prev" href="/getglue-adesivos/">Por que você usa o GetGlue? O que faz com aqueles adesivos?</a><br />
 		  
 		  
-		    <a class="next" href="/como-fazer-um-blog/">Como fazer um blog, edição 2013 &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/como-fazer-um-blog/">Como fazer um blog, edição 2013</a> &raquo;</span>
 		  
 		</div>
 

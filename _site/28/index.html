@@ -139,7 +139,6 @@
   }
   .listagem-posts .entry {
     padding: 0;
-    list-style: none;
     margin: 100px 0 200px 0
   }
   .entry_quote blockquote {
@@ -181,21 +180,26 @@
     overflow: hidden;
   }
   .post {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
   .post .entry {
-    margin-bottom: 100px
+    margin-bottom: 200px
   }
   header {
-    margin: 100px 0;
+    margin: 100px 0 200px;
   }
   footer {
     margin: 200px 0 100px;
     clear: both;
   }
-  .single .pagination .next {
-    float: right;
-    margin-bottom: 180px;
+
+  .single .pagination .next,
+  .single .pagination .prev {
+    margin-bottom: 200px;
+  }
+  .pagination-next {
+    margin-left: 14px;
+    display: block
   }
   @media only screen and (max-width:960px) {
     #container {
@@ -241,18 +245,18 @@
 
 <p>Não me resta muito a fazer, por ora. Quero terminar Comunicação, então tenho dois anos nesse esquema pela frente. Acho que tentarei simplificar as coisas. E reclamar menos. Estou me tornando uma pessoa de quem não gosto muito, alguém que reclama muito — inclusive, sim, neste post inteiro. Desculpa aí, pessoal.</p>
 
-			</div>
 
-			<p>Publicado em<br /><a href="">8 Nov 2014</a></p>
+				<p class="date-home"><a class="post-link" href="">8 Nov 2014</a></p>
+			</div>
 
 		</article>
 
 		<div class="pagination">
 		  
-		    <a class="prev" href="/aaron-swartz/">&laquo; O menino da Internet</a>
+		    &laquo; Anterior: <a class="prev" href="/aaron-swartz/">O menino da Internet</a><br />
 		  
 		  
-		    <a class="next" href="/amor-liquido-bauman/">O amor líquido de Bauman &raquo;</a>
+		    <span class="pagination-next">Próximo: <a class="next" href="/amor-liquido-bauman/">O amor líquido de Bauman</a> &raquo;</span>
 		  
 		</div>
 
