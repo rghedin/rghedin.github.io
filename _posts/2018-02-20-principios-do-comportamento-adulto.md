@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Princípios do comportamento adulto"
-date: 2018-02-19 07:50 -0200
+date: 2018-02-20 07:50 -0200
 categories: texto
 image: barlow.jpg
 ---
