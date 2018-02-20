@@ -1,4 +1,5 @@
 title: Blog do Rodrigo Ghedin
+description: Blog pessoal de Rodrigo Ghedin. Anedotas, reflexões e trechos de obras de gente esperta e/ou inspiradora.
 email: ghedin@gmail.com
 permalink: /:title/
 markdown: kramdown
