@@ -3,9 +3,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex,follow">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="robots" content="noindex,follow" />
+
+  <meta content="{{ site.title }}" property="og:site_name">
+  {% if page.title %}<meta content="{{ page.title }}" property="og:title">{% else %}<meta content="{{ site.title }}" property="og:title">{% endif %}
+  {% if page.image %}<meta content="{{ site.url }}/assets/{{ page.image }}" property="og:image">{% else %}<meta content="assets/eu.jpg" property="og:image">{% endif %}
+  {% if page.description %}<meta content="{{ page.description }}" property="og:description">{% else %}<meta content="{{ site.description }}" property="og:description">{% endif %}
+  {% if page.url %}<meta content="{{ site.url }}{{ page.url }}" property="og:url">{% endif %}
+  <meta name="twitter:card" content="summary_large_image">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
@@ -113,6 +117,9 @@
   h1 a, h2 {
     text-decoration: none;
   }
+  h2 {
+    font-size: 1.2em;
+  }
   h1 a:link, h1 a:visited, h2 a:link, h2 a:visited {
     color: #000;
     text-decoration: none;
@@ -123,7 +130,7 @@
   }
   ol, ul {
     list-style: none;
-    margin: 0 0 30px 30px;
+    margin: 0 0 30px 34px;
   }
   ul {
     list-style-type: disc
