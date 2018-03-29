@@ -1,7 +1,7 @@
 ---
 layout: quote
 title: "Eu não estou interessado em nenhuma teoria…"
-date: 2018-03-28 19:00 -0300
+date: 2018-03-29 18:00 -0300
 categories: citação música
 image: belchior.jpg
 ---
