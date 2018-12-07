@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demissão da Gazeta do Povo"
-date: 2018-12-07 07:45 -0300
+date: 2018-12-07 06:45 -0300
 categories: texto
 ---
 Ontem foi o meu último dia na _Gazeta do Povo_. Fui demitido com outros cinco profissionais da redação. Estou tranquilo. Está tudo bem.
