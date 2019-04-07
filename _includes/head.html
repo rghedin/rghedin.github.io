@@ -50,7 +50,7 @@
   .single h1, h1, h2, h2.title {
     font-size: 1.5em;
     font-weight: lighter;
-    line-height: 34px;
+    line-height: 42px;
   }
   h1, h2.title {
     margin: 0;
@@ -180,6 +180,7 @@
   }
   #container {
     margin: 0 auto 20px;
+    padding: 0 16px;
     max-width: 32em;
     overflow: hidden;
   }
@@ -196,6 +197,12 @@
     margin: 200px 0 100px;
     clear: both;
   }
+  footer img {
+    border-radius: 50%;
+    width: 120px;
+    float: left;
+    margin-right: 20px;
+  }
 
   .single .pagination .next,
   .single .pagination .prev {
@@ -205,15 +212,16 @@
     margin-left: 14px;
     display: block
   }
-  @media only screen and (max-width:960px) {
-    #container {
-      padding: 16px;
-    }
+  @media only screen and (max-width:438px) {
     .entry_quote blockquote {
       font-size: 115%
     }
     .entry_quote p {
       line-height: 135%
+    }
+    footer img {
+      margin-right: 60%;
+      margin-bottom: 20px;
     }
   }
   </style>
