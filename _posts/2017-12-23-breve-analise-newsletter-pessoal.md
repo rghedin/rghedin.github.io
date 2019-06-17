@@ -12,7 +12,7 @@ Ao longo dos anos, sempre tentei manter contato com os leitores mais assíduos, 
 
 Numa época, tentei alavancar redes sociais para esse fim (funciona mais ou menos). Antes, havia criado um feed RSS que concentrava tudo que eu fazia (mas alguém ainda usa RSS?). Ambas não se provaram boas soluções a longo prazo.
 
-Quando deixei o Manual do Usuário para começar na Gazeta do Povo, fiz algo que deveria ter feito há muito tempo: [uma newsletter pessoal](http://bit.ly/newsghedin). Convidei os leitores a assinarem-na mesmo sem saber o que escreveria ali; naquele momento, manter o contato era o que importava.
+Quando deixei o _Manual do Usuário_ para começar na _Gazeta do Povo_, fiz algo que deveria ter feito há muito tempo: [uma newsletter pessoal](http://bit.ly/newsghedin). Convidei os leitores a assinarem-na mesmo sem saber o que escreveria ali; naquele momento, manter o contato era o que importava.
 
 Um formato acabou surgindo após o envio de umas três edições sem periodicidade e desestruturadas. Então, hoje, após 26 envios semanais consecutivos e aproveitando esse clima de fim de ano, achei que seria uma boa hora para dar uma parada, analisar alguns números e refletir um pouco.
 
@@ -48,7 +48,7 @@ Ia fazer a média do total de cliques em cada edição, mas esse número fica me
 
 ## Satisfação
 
-Nunca paguei um centavo para divulgar a newsletter. Só fiz isso, basicamente, pelo Twitter. Fora de lá, coloquei uma vez o link para cadastro no meu perfil do Facebook (e focado em quem me segue, não nos "amigos"), dentro de duas matérias (salvo engano), uma na Gazeta do Povo, outra no Manual do Usuário, e neste texto no Medium para divulgá-la.
+Nunca paguei um centavo para divulgar a newsletter. Só fiz isso, basicamente, pelo Twitter. Fora de lá, coloquei uma vez o link para cadastro no meu perfil do Facebook (e focado em quem me segue, não nos "amigos"), dentro de duas matérias (salvo engano), uma na _Gazeta do Povo_, outra no _Manual do Usuário_, e neste texto no Medium para divulgá-la.
 
 Se os números relativos impressionam, os absolutos, não muito. Qualquer canal de YouTube, perfil no Instagram ou blog pequeno alcança mais gente. A diferença, e o que me motiva a toda semana trabalhar nessa newsletter depois do expediente no jornal, é esse contato mais próximo com amigos e leitores interessados. Não é muito raro receber respostas e continuar a conversa individualmente. Isso é _bem_ legal.
 

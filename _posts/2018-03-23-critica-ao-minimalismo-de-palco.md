@@ -27,4 +27,4 @@ A concepção básica de minimalismo é interessante. Ela pode ser extremamente 
 
 Mas o minimalismo é isso: um chamado, apenas. Um lembrete pontual que te muda e, depois de cumprida essa missão, sai de cena deixando uma nova mentalidade capaz de mudanças reais e significativas. Só que essa característica, obviamente, não funciona no capitalismo em que os próprios Os Minimalistas (e todos esses outros blogueiros) estão inseridos, então eles sempre inventam um curso, um livro, uma abordagem ou o que quer que seja para manter a roda girando.
 
-Imagine um curso de minimalismo em que a única lição fosse "não compre o que você não precisa". Só isso, direto e funcional. [Tipo este](https://comoserminimalista.club/).
+Imagine um curso de minimalismo em que a única lição fosse "não compre o que você não precisa". Só isso, direto e funcional. [Tipo este](https://rodrigo.ghed.in/comoserminimalista/).
