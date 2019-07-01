@@ -17,4 +17,4 @@ _Um almocinho vegano caseiro para começar bem a semana._
 
 Passou um pouco do ponto e/ou deixei muito tempo na água de um dia para outro, o que resultou em pouco caldo e alguns grãos esbugalhados. Apesar disso, ficou gostoso. É o que importa, certo? E também uma falha relativamente simples de corrigir nas próximas oportunidades, que, agora que dominei a panela de pressão, pressinto que serão frequentes.
 
-Agradecimentos às pessoas pacientes e compreensíveis que possibilitaram esta vitória em minha vida — P. e minha mãe.
+Agradecimentos às pessoas pacientes e compreensíveis que possibilitaram esta vitória em minha vida — P. e minha mãe. 
