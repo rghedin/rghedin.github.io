@@ -6,7 +6,7 @@ Meu nome é Rodrigo Ghedin. Tenho 32 anos, moro em Curitiba e me formei comunic�
 
 Este é o meu blog pessoal. Ele está no ar desde maio de 2005, já teve vários layouts, endereços e propostas. Hoje, é isto que você vê. Publico nele algumas ideias que me ocorrem e que consigo reduzir satisfatoriamente a texto e excertos inspiradores de outros autores.
 
-Para ser avisado de novos posts, [assine o feed](https://blog.ghed.in/feed.xml) ou a [newsletter](http://bitly.com/newsghedin).
+Para ser avisado de novos posts, [assine o feed](https://blog.ghed.in/feed.xml) ou a [newsletter](https://newsletter.ghed.in).
 
 ## Privacidade
 
