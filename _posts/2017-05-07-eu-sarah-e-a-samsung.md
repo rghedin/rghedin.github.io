@@ -10,7 +10,7 @@ Eu ainda não sei, mas achei aquilo tão deslocado, tão inusitado, que gostei. 
 
 Como meu e-mail chegou lá, vá saber. Talvez ele esteja em um banco de e-mails, desses vendidos por R$ 10 no camelô, com o nome trocado. Outra hipótese é a de que alguma Sarah Ghedin errou seu próprio e-mail no cadastro (as pessoas às vezes se submetem ao recebimento desse tipo de coisa) e, sem querer, me colocou em um mailing que proporciona pequenas alegrias recorrentes de total nonsense virtual.
 
-Ah sim, porque aquela mensagem não foi a única. Quando recebi a primeira, tirei um print, [postei no Twitter](https://twitter.com/ghedin/status/604702892944064512) e a apaguei. Vida que segue. Mas, algumas semanas depois, chegou outra. E elas continuaram. Eu estou em um mailing da Samsung com o nome “Sarah."
+Ah sim, porque aquela mensagem não foi a única. Quando recebi a primeira, tirei um print, postei no Twitter e a apaguei. Vida que segue. Mas, algumas semanas depois, chegou outra. E elas continuaram. Eu estou em um mailing da Samsung com o nome “Sarah."
 
 Fora de contexto, as mensagens são divertidíssimas. É quase como se a Samsung estivesse genuinamente preocupada com o meu desenvolvimento (ou o da Sarah) enquanto ser humano pela via esotérica, o que fica ainda mais esquisito se pensarmos que a ideia primordial ali é só vender celulares e outras bugigangas. Alguns exemplos:
 

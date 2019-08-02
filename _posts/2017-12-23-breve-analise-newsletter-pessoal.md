@@ -12,7 +12,7 @@ Ao longo dos anos, sempre tentei manter contato com os leitores mais assíduos, 
 
 Numa época, tentei alavancar redes sociais para esse fim (funciona mais ou menos). Antes, havia criado um feed RSS que concentrava tudo que eu fazia (mas alguém ainda usa RSS?). Ambas não se provaram boas soluções a longo prazo.
 
-Quando deixei o _Manual do Usuário_ para começar na _Gazeta do Povo_, fiz algo que deveria ter feito há muito tempo: [uma newsletter pessoal](http://bit.ly/newsghedin). Convidei os leitores a assinarem-na mesmo sem saber o que escreveria ali; naquele momento, manter o contato era o que importava.
+Quando deixei o _Manual do Usuário_ para começar na _Gazeta do Povo_, fiz algo que deveria ter feito há muito tempo: [uma newsletter pessoal](https://newsletter.ghed.in). Convidei os leitores a assinarem-na mesmo sem saber o que escreveria ali; naquele momento, manter o contato era o que importava.
 
 Um formato acabou surgindo após o envio de umas três edições sem periodicidade e desestruturadas. Então, hoje, após 26 envios semanais consecutivos e aproveitando esse clima de fim de ano, achei que seria uma boa hora para dar uma parada, analisar alguns números e refletir um pouco.
 
@@ -54,4 +54,4 @@ Se os números relativos impressionam, os absolutos, não muito. Qualquer canal 
 
 São enormes a satisfação e a responsabilidade de falar com cada uma dessas pessoas que me concederam um espaço em suas certamente abarrotadas caixas de e-mail e, mais que isso, dedicam dez minutos por semana para saberem o que estou fazendo.
 
-Eu gosto muito do e-mail e, pela minha newsletter, vejo que existe muita gente que compartilha esse apreço. Se você gosta do que eu escrevo e ainda não assina ela, é a melhor maneira de acompanhar meu trabalho. [O caminho é por aqui](http://bit.ly/newsghedin).
+Eu gosto muito do e-mail e, pela minha newsletter, vejo que existe muita gente que compartilha esse apreço. Se você gosta do que eu escrevo e ainda não assina ela, é a melhor maneira de acompanhar meu trabalho. [O caminho é por aqui](https://newsletter.ghed.in).

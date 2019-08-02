@@ -20,8 +20,8 @@ Seu e-mail, idem. Ele é seu e ninguém mexe no que está ali dentro. Nele, cheg
 
 Newsletters são legais. Você assina elas em um site como este, na web aberta, e recebe mensagens periódicas em seu e-mail, sem filtros escusos regulando esse caminho. Quando não quiser mais, basta cancelar o recebimento. Simples, direto e funcional.
 
-[Eu tenho uma newsletter](http://bit.ly/newsghedin). Até agora, não sabia muito bem para que usá-la, mas tive esse lampejo e acredito que ela possa servir de ponte entre tudo o que faço e as pessoas minimamente interessadas. Uma alternativa a redes sociais e outros ambientes filtrados e hostis à privacidade.
+[Eu tenho uma newsletter](https://newsletter.ghed.in). Até agora, não sabia muito bem para que usá-la, mas tive esse lampejo e acredito que ela possa servir de ponte entre tudo o que faço e as pessoas minimamente interessadas. Uma alternativa a redes sociais e outros ambientes filtrados e hostis à privacidade.
 
-Se você é uma dessas pessoas interessadas, [assine a minha newsletter](http://bit.ly/newsghedin).
+Se você é uma dessas pessoas interessadas, [assine a minha newsletter](https://newsletter.ghed.in).
 
 Ainda existe vida aqui fora.

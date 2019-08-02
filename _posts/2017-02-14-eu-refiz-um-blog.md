@@ -22,4 +22,4 @@ Ao visitar este blog, você não deixa nada para trás e eu peço pouquíssimo e
 
 No mais, gosto desse visual espartano, utilitário. Deixei apenas o básico, o essencial para que você me leia. Nada além, nada aquém. Estou restaurando os posts antigos aos poucos, um a um, manualmente. Nesse trabalho, aproveito para revisar os erros (gramaticais, ortográficos e da minha cabeça). Está sendo legal revisitar coisas que escrevi há dez anos. As que sobraram daquela época, pelo menos.
 
-Se quiser ser avisado dos futuros posts, o que é uma boa já que não tenho ideia de quando escreverei aqui novamente, [assine o feed](https://blog.ghed.in/feed.xml) ou [esta newsletter](http://bit.ly/newsghedin) que acabei de criar só para isso. E obrigado pela sua atenção!
+Se quiser ser avisado dos futuros posts, o que é uma boa já que não tenho ideia de quando escreverei aqui novamente, [assine o feed](https://blog.ghed.in/feed.xml) ou [esta newsletter](https://newsletter.ghed.in) que acabei de criar só para isso. E obrigado pela sua atenção!

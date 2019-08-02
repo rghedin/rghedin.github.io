@@ -4,7 +4,7 @@ title: "O que acontece quando um tweet viraliza?"
 date: 2017-07-08 14:00 -0300
 categories: texto
 ---
-Aconteceu algo inusitado: [um tweet meu](https://twitter.com/ghedin/status/882315870520975360) viralizou. No momento em que escrevo isto, ele já passa de 1200 retweets e pouco mais de 1500 curtidas. Foi algo que me pegou de surpresa. Nunca tinha acontecido e imagino que não seja um fato tão corriqueiro, então achei que seria uma boa relatar a experiência.
+Aconteceu algo inusitado: um tweet meu viralizou. No momento em que escrevo isto, ele já passa de 1200 retweets e pouco mais de 1500 curtidas. Foi algo que me pegou de surpresa. Nunca tinha acontecido e imagino que não seja um fato tão corriqueiro, então achei que seria uma boa relatar a experiência.
 
 A primeira sensação é o susto. Não sei você, mas já tinha pensado no que faria se, do nada, algum perfil meu em rede social começasse a bombar sem eu saber. Foi mais ou menos isso o que aconteceu.
 
