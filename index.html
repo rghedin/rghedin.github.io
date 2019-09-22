@@ -11,6 +11,8 @@ layout: default
       <div class="entry entry_image">{{ post.content }}
     {% elsif post.layout == 'quote' %}
       <div class="entry entry_quote">{{ post.content }}
+    {% elsif post.layout == 'aside' %}
+      <div class="entry entry_aside">{{ post.content }}
     {% endif %}
       <p class="date-home"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.date | date: "%-d %b %Y" }}</a></p></div>
     {% endfor %}

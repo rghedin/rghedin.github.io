@@ -1,0 +1,23 @@
+---
+layout: default
+---
+		<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+			<h1 style="display: none;">{{ page.title | escape }}</h1>
+
+			<div class="entry">
+				{{ content }}
+
+				<p class="date-home"><a class="post-link" href="{{ post.url | relative_url }}">{{ page.date | date: "%-d %b %Y" }}</a></p>
+			</div>
+
+		</article>
+
+		<div class="pagination">
+		  {% if page.previous.url %}
+		    &laquo; Anterior: <a class="prev" href="{{page.previous.url}}">{{page.previous.title}}</a><br />
+		  {% endif %}
+		  {% if page.next.url %}
+		    <span class="pagination-next">Próximo: <a class="next" href="{{page.next.url}}">{{page.next.title}}</a> &raquo;</span>
+		  {% endif %}
+		</div>
