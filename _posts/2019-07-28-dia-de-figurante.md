@@ -4,7 +4,7 @@ title: "Dia de figurante"
 date: 2019-07-28 19:20 -0300
 categories: texto
 ---
-Soube que um time de futebol argentino veio a Curitiba jogar contra o Atléthico (agora tem esse "h" no meio) por um campeonato que não me interessou muito saber qual era.
+Soube que um time de futebol argentino veio a Curitiba jogar contra o Athletico (agora tem esse "h" no meio) por um campeonato que não me interessou muito saber qual era.
 
 Na quarta, dia do jogo, fui malhar depois do almoço e já de saída notei pessoas com camisetas nas cores azul e amarelo. Depois, em uma churrascaria no caminho, reparei em uma mesa enorme cheia de homens de meia idade com camisas azuis e amarelas bebendo cerveja. Coincidência? Não. Eram todos torcedores que saíram da Argentina no meio da semana para assistirem a um jogo de futebol em outro país.
 
