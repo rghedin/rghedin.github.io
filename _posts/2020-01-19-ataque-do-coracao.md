@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Ataque cardíaco"
+date: 2020-01-19 18:00 -0300
+categories: texto
+---
+Fui me deitar e senti umas pontadas intermitentes num ponto bem específico do braço esquerdo, o que me levou à conclusão de que estava morrendo.
+
+Abri o Google. É aterrorizante o tanto de sintomas que um ataque cardíaco pode gerar e, para minha infelicidade, alguns deles tão corriqueiros que reparei concomitantes naquele momento de preocupação ao já citado incômodo em meu membro superior.
+
+Queimação no estômago, por exemplo. Eu acabara de retornar de uma visita prolongada à casa dos meus pais e tinha, na geladeira, uma lasanha à bolonhesa congelada. Para o jantar, assei ela e fiz arroz. A preguiça que me impediu de ir ao mercado mais cedo comprar comida de verdade e me levou a matar a fome noturna com uma bomba de sódio cobrou seu preço horas depois na forma de terror psicológico.
+
+Não era um, mas sim dois sintomas. Fato: minha morte era iminente.
+
+Não consegui dormir e após rolar de um lado a outro da cama por um bom tempo, levantei-me. Li um livro, ouvi música, abri o computador e voltei ao Google para pesquisar mais sobre "ataque cardíaco". Nesse contexto, "suadouro" e "fadiga" despontaram em outro site que listava mais sintomas. Eu os sentia e embora eles se explicassem facilmente pelo calor infernal que fazia e o fato de que, naquele momento, estava acordado havia umas 20 horas, preferi acreditar que eram mais indícios do fim que se aproximava.
+
+Fazia duas horas que estava sentado e minhas opções eram permanecer ali até cair — de sono ou morto — e pegar o carro e ir ao pronto socorro. Ensaiei mentalmente o que falaria à atendente, "eu acho que não é nada, mas na dúvida…" e quando me vi estava dentro do carro, estacionado em frente ao hospital, repassando uma última vez as palavras àquela altura já ensaiadas à exaustão.
+
+Quando a atendente respondeu ao meu relato: "não, tem que vir mesmo, vai que…" com genuína seriedade, senti um grande alívio. Por um breve momento, não parecer um hipocondríaco medroso foi mais importante que não morrer. Prioridades.
+
+Esperei pouco para ser atendido. A enfermeira que faz a triagem tirou minha pressão (11 por 7) e meus batimentos cardíacos (70 bpm). Esperei mais um pouco em outra sala até ser atendido por uma médica igualmente séria, provavelmente a médica mais séria com quem já tive contato, o que talvez se justificasse por ela estar "tratando" um cara sem sintomas óbvios de infarto, mas que achava estar tendo um, às 4h da manhã de um dia útil.
+
+No consultório, a médica de cara fechada me fez algumas perguntas triviais. Apalpou a região do meu braço dolorido e me pediu para que apertasse suas mãos. Poderia ser o início de um ritual padrão para dar notícias fatídicas, mas descobri depois que era só um teste de força. Aí ela me receitou uma injeção e um remédio a ser tomado de oito em oito horas para aliviar a dor do nervo ou seja lá o que fosse que estivesse doendo ali no braço. Ela só deu risada quando confessei, meio constrangido, que temia pudesse estar tendo um ataque cardíaco. Àquela altura já me parecia idiotice tocar nesse assunto, mas fui motivado pelo desespero de que talvez algo importante, que só descobriríamos dali a algumas horas da pior forma possível, estivesse passando.
+
+Cheguei em casa e com a tranquilidade que só um diagnóstico de médico ou de mãe é capaz de dar, dormi.
+
+O Google às vezes mente. No fim, não era nada.
