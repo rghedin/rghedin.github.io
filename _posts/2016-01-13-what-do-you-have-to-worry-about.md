@@ -1,7 +1,7 @@
 ---
 layout: quote
 title: "— What do you have to worry about?"
-date: 2016-01-13 20:35 -0200
+date: 2016-01-13 20:35 -0300
 categories: citação
 ---
 >— What do you have to worry about?  

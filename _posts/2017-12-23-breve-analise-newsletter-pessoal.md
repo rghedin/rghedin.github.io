@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Breve análise de uma newsletter pessoal"
-date: 2017-12-23 16:50 -0200
+date: 2017-12-23 16:50 -0300
 categories: texto
 ---
 Sempre que leio alguma coisa em um jornal, revista ou site, procuro saber _quem_ estou lendo. Embora nem sempre a assinatura corresponda ao verdadeiro autor ou esteja disponível, acho um diferencial importante — e que será ainda mais quando dividirmos a bancada na redação com robôs.

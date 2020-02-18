@@ -2,7 +2,7 @@
 layout: quote
 title: "— Você é terrível para dizer coisas insultantes, Jake…"
 date: 2016-08-18 11:08 -0300
-categories: citação livro
+categories: livro
 ---
 >— Você é terrível para dizer coisas insultantes, Jake.  
 — Desculpe. Tenho uma língua má. Nunca tenho intenção quando digo coisas desagradáveis.  

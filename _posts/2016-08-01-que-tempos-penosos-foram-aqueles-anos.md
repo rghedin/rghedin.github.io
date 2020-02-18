@@ -2,7 +2,7 @@
 layout: quote
 title: "Que tempos penosos foram aqueles anos…"
 date: 2016-08-01 19:18 -0300
-categories: citação livro
+categories: livro
 ---
 >Que tempos penosos foram aqueles anos — ter o desejo e a necessidade de viver, mas não a habilidade.
 

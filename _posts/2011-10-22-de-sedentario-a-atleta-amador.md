@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De sedentário a atleta amador"
-date: 2011-10-22 10:48 -0200
+date: 2011-10-22 10:48 -0300
 categories: texto
 ---
 No começo do ano, fiz uma cirurgia para corrigir um problema congênito na bexiga. “Coisa simples”, segundo o médico.
