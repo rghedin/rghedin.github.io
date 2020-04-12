@@ -1,9 +1,7 @@
 ---
 layout: image
-title: "Retrato de uma jovem em chamas (2019)"
-date: 2020-01-21 16:00 -0300
-categories: filmes
+title: "Pratos #1"
+date: 2020-04-12 09:00 -0300
+categories: pratos
 ---
-![Retrato de uma jovem em chamas]({{ site.baseurl }}/assets/retrato-de-uma-jovem-em-chamas.jpg)
-
-_Retrato de uma jovem em chamas_ (Céline Sciamma, 2019).
+![Foto de cima de um prato com feijão, purê de abóbora cabotiá e batata inglesa com azeitonas, e salada de alface americana e tomate.]({{ site.baseurl }}/assets/IMG_5118.jpg)
