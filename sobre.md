@@ -2,14 +2,10 @@
 layout: page
 title: "Sobre"
 ---
-Meu nome é Rodrigo Ghedin. Tenho 32 anos, moro em Curitiba e me formei comunicólogo pela Universidade Estadual de Maringá. Sou editor do blog [_Manual do Usuário_](http://www.gazetadopovo.com.br/manualdousuario).
+Meu nome é Rodrigo Ghedin. Tenho 33 anos, moro em Curitiba (PR) e sou comunicólogo pela Universidade Estadual de Maringá. Edito o site [_Manual do Usuário_](https://manualdousuario.net/).
 
-Este é o meu blog pessoal. Ele está no ar desde maio de 2005, já teve vários layouts, endereços e propostas. Hoje, é isto que você vê. Publico nele algumas ideias que me ocorrem e que consigo reduzir satisfatoriamente a texto e excertos inspiradores de outros autores.
+Este é o meu blog pessoal. Ele está no ar desde maio de 2005, já teve vários layouts, endereços e propostas. Hoje, é isto que você vê. Publico nele algumas ideias que me ocorrem e que consigo reduzir satisfatoriamente a texto, excertos inspiradores de outros autores e fotos.
 
 Para ser avisado de novos posts, [assine o feed](https://blog.ghed.in/feed.xml) ou a [newsletter](https://newsletter.ghed.in).
 
-## Privacidade
-
-Este blog grava apenas um cookie, a fim de monitorar as estatísticas de acesso, através do serviço Clicky ([leia a política de privacidade](https://clicky.com/terms#privacy)).
-
-Caso prefira não ceder esse dado a mim, sinta-se à vontade. Para isso, basta adicionar o arquivo `101047668ns.gif` ou o domínio `*.getclicky.com` à lista de elementos bloqueados em seu aplicativo ou extensão do tipo favorito.
+_Última atualização desta página: 12/4/2020._
