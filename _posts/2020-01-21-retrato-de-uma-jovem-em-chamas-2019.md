@@ -1,7 +1,10 @@
 ---
 layout: image
 title: "Pratos #1"
-date: 2020-04-12 09:00 -0300
-categories: pratos
+date: 2020-01-21 09:00 -0300
+categories: filmes
 ---
-![Foto de cima de um prato com feijão, purê de abóbora cabotiá e batata inglesa com azeitonas, e salada de alface americana e tomate.]({{ site.baseurl }}/assets/IMG_5118.jpg)
+<img src="/assets/retrato-de-uma-jovem-em-chamas.jpg"
+	 srcset="/assets/retrato-de-uma-jovem-em-chamas-480.jpg 480w" />
+
+_Retrato de uma jovem em chamas_ (Céline Sciamma, 2019).
