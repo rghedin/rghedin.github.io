@@ -2,7 +2,7 @@
 layout: post
 title: "Em vez do Facebook, uma newsletter"
 date: 2017-06-09 20:00 -0300
-categories: texto
+categories: meta
 ---
 A primeira coisa que Richard Stallman pede, em suas palestras, é para que os presentes que tirarem fotos não as enviem para o Facebook, Instagram ou WhatsApp. A justificativa é de que ele não quer contribuir com mais matéria-prima para que serviços que não respeitam a privacidade do usuário continuem crescendo.
 

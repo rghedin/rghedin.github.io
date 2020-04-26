@@ -2,7 +2,7 @@
 layout: post
 title: "Crítica ao minimalismo de palco"
 date: 2018-03-23 18:40 -0300
-categories: texto
+categories: críticas
 image: minimalista.jpg
 ---
 No feriado de Carnaval, estava vendo os vídeos da semana no YouTube e, depois de assistir aos que me interessaram, dei uma olhada nas recomendações do algoritmo. Havia um “apartment tour” de Matt D’Avella, diretor daquele documentário d'Os Minimalistas que está na Netflix.

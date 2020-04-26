@@ -2,7 +2,7 @@
 layout: post
 title: "Panela de pressão"
 date: 2019-06-30 19:00 -0300
-categories: texto
+categories: relatos
 ---
 Nos últimos anos reduzi meu consumo de leguminosas a basicamente quando como fora. Longe de não gostar, é que nunca havia mexido com panela de pressão e tinha medo de explodi-la na tentativa de cozinhar um feijão.
 
@@ -17,4 +17,4 @@ _Um almocinho vegano caseiro para começar bem a semana._
 
 Passou um pouco do ponto e/ou deixei muito tempo na água de um dia para outro, o que resultou em pouco caldo e alguns grãos esbugalhados. Apesar disso, ficou gostoso. É o que importa, certo? E também uma falha relativamente simples de corrigir nas próximas oportunidades, que, agora que dominei a panela de pressão, pressinto que serão frequentes.
 
-Agradecimentos às pessoas pacientes e compreensíveis que possibilitaram esta vitória em minha vida — P. e minha mãe. 
+Agradecimentos às pessoas pacientes e compreensíveis que possibilitaram esta vitória em minha vida — P. e minha mãe.

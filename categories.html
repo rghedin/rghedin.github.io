@@ -5,7 +5,7 @@ title: Arquivo
 ---
 
 <div class="listagem-posts">
-	<p>Esta página exibe todos os posts do blog, separados por tipo/assunto. Para encontrar algum específico, pesquise a página — em computadores, <code>Ctrl + F</code> ou <code>⌘ + F</code> (macOS).</p>
+	<p>Esta página exibe todos os posts do blog, separados por tipo/assunto. Para encontrar algum específico, pesquise a página — em computadores, <code>Ctrl + F</code>.</p>
 	{% for category in site.categories %}
 		{% capture category_name %}{{ category | first }}{% endcapture %}
 

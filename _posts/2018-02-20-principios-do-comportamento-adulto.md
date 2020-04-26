@@ -2,7 +2,7 @@
 layout: post
 title: "Princípios do comportamento adulto"
 date: 2018-02-20 07:50 -0300
-categories: texto
+categories: etc
 image: barlow.jpg
 ---
 No dia 7 de fevereiro de 2018, John Perry Barlow, fundador da Electronic Frontier Foundation (EFF), letrista do Grateful Dead e um dos maiores cyberativistas da história, [morreu](https://www.eff.org/deeplinks/2018/02/john-perry-barlow-internet-pioneer-1947-2018). Ele tinha 70 anos.

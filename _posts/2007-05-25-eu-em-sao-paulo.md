@@ -2,7 +2,7 @@
 layout: post
 title: "Eu em São Paulo"
 date: 2007-05-25 18:53 -0300
-categories: texto
+categories: passeios
 ---
 Na última quarta-feira, a convite da Microsoft Brasil, saí da minha pacata cidade rumo a São Paulo, uma das cidades mais populosas do mundo, para participar de um encontro de blogueiros. Esta parte eu já escrevi no meu "blog" sobre Windows. Embora tenha sido o motivo principal da minha viagem, não foi o único. Houve mais, todos dependentes do principal, é verdade, mas tão legais quanto, sem dúvida.
 

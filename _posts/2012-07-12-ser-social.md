@@ -2,7 +2,7 @@
 layout: post
 title: "Ser social"
 date: 2012-07-12 20:30 -03:00
-categories: texto
+categories: relatos
 ---
 ![Tirinha genial sobre a solidão.]({{ site.baseurl }}/assets/LTGnenhumconviteblog.jpg "Longos dias.")
 

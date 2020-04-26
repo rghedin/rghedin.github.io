@@ -2,7 +2,7 @@
 layout: post
 title: "Estamos vivendo o filme \"Tubarão\""
 date: 2020-04-21 16:00 -0300
-categories: texto
+categories: crônicas
 ---
 Assisti ao filme _Tubarão_, o clássico de 1975 dirigido por Steven Spielberg. Troque o tubarão pelo coronavírus, e uma passagem no espaço-tempo se abrirá.
 

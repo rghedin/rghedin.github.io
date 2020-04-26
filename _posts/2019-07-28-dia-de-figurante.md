@@ -2,7 +2,7 @@
 layout: post
 title: "Dia de figurante"
 date: 2019-07-28 19:20 -0300
-categories: texto
+categories: crônicas
 ---
 Soube que um time de futebol argentino veio a Curitiba jogar contra o Athletico (agora tem esse "h" no meio) por um campeonato que não me interessou muito saber qual era.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Como fazer um blog, edição 2013"
 date: 2013-05-21 22:06 -0300
-categories: texto
+categories: meta
 ---
 Este blog é a coisa mais antiga ainda funcionando que tenho na Internet. Na vida, talvez. Comecei ele em 2005, empolgado ao ler textos de pessoas comuns, que tinham seus blogs por sei lá qual motivo, e que escreviam bem demais. No alto da minha pretensão (eu era bastante naquela época), pensei "hey, também quero."
 

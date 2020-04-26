@@ -2,7 +2,7 @@
 layout: post
 title: "A lição do meu pai"
 date: 2018-08-12 19:35 -0300
-categories: texto
+categories: relatos
 ---
 Quando era mais novo, ficava intrigado com a capacidade que meu pai tinha de me dar uma bronca e, dali a alguns minutos, dirigir-se a mim para falar qualquer trivialidade ou pedir alguma coisa. “Eu ainda estou bravo com você!!”, pensava enquanto o ouvia, incrédulo.
 

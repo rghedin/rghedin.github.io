@@ -2,7 +2,7 @@
 layout: post
 title: "Cinema de rua"
 date: 2019-03-31 19:30 -0300
-categories: texto
+categories: relatos
 ---
 Quinta-feira passada (28/3), a prefeitura de Curitiba inaugurou um cinema de rua municipal no Centro, [o Cine Passeio](https://www.plural.jor.br/curitibanos-voltam-a-ter-cinema-fora-do-shopping/?content_token=mp_5c9a05fbedcdb&from_id=2783). Estou ansioso para conhecê-lo!
 

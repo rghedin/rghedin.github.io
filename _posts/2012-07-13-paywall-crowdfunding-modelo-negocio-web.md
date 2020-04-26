@@ -2,7 +2,7 @@
 layout: post
 title: "Banners, paywall, crowdfunding: ainda espero o modelo de negócio ideal para a web"
 date: 2012-07-13 09:48 -03:00
-categories: texto
+categories: etc
 ---
 Não digo que irá acontecer, mas eu _gostaria_ que o modelo de negócio padrão para a web mudasse drasticamente. Em outras palavras, que os anúncios dessem lugar a outras maneiras de sites e serviços se pagarem e a seus criadores, livrando-nos de propagandas intrusivas e sistemas de rastreamento que extrapolam o aceitável.
 

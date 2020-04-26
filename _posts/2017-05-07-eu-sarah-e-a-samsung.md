@@ -2,7 +2,7 @@
 layout: post
 title: "Eu, Sarah e a Samsung"
 date: 2017-05-07 19:50 -0300
-categories: texto
+categories: crônicas
 ---
 Há dois anos, recebi um e-mail promocional da Samsung com o seguinte assunto: “Sarah, participe da Promoção Samsung Galaxy Vingadores.” Várias interrogações surgiram na minha cabeça. Por que a Samsung acha que eu me importo com _Vingadores_? Como meu e-mail foi parar lá? E, a mais importante: quem é Sarah?
 

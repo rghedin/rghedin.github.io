@@ -2,7 +2,7 @@
 layout: post
 title: "Qual o problema em permanecer pequeno na Internet?"
 date: 2012-12-19 10:15 -02:00
-categories: texto
+categories: etc
 ---
 Nunca entendi direito por que toda empresa precisa crescer, expandir, aumentar o faturamento. Qual o problema em permanecer pequeno? Em, mais do que ficar nesse estado, abraçá-lo e usá-lo como diferencial? O tratamento personalizado do cliente, o clima mais íntimo e aconchegante, o gerenciamento simplificado. Como se nota, existem algumas vantagens.
 

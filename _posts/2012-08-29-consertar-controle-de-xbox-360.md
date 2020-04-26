@@ -2,7 +2,7 @@
 layout: post
 title: "Como consertar um controle de Xbox 360"
 date: 2012-08-29 16:50 -0300
-categories: texto
+categories: tecnologia
 ---
 ![Close na base do direcional analógico de um controle de Xbox 360.]({{ site.baseurl }}/assets/analogico-xbox-360.jpg)
 

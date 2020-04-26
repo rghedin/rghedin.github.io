@@ -2,7 +2,7 @@
 layout: post
 title: "Meu nome em japonês"
 date: 2006-08-22 10:06 -0300
-categories: texto
+categories: etc
 ---
 Ah, o Japão! Cultura riquíssima, culinária exótica, costumes milenares. Meu interesse neste longínquo país vem de cedo, desde os tempos em que passava os finais de semana, e os dias normais da semana, jogando jogos japoneses em um video game japonês, o PlayStation da Sony. Pouco depois, veio a febre dos animes, a princípio liderada por _Pokémon_ (sim, já gostei e admito) e _Dragon Ball Z_. Dali foi um pulo para buscar informações sobre a terra do sol nascente e também brotar em mim o desejo de, um dia, conhecê-la.
 

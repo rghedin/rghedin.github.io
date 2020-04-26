@@ -2,7 +2,7 @@
 layout: post
 title: "Minha foto virou capa de álbum"
 date: 2017-12-03 14:00 -0300
-categories: texto
+categories: relatos
 ---
 Em 2010, logo depois de tirar minha então câmera nova da caixa, uma Panasonic Lumix FZ35, apontei ela para um urso gigante de pelúcia que estava tomando Sol, na casa dos meus pais, e fiz um disparo.
 

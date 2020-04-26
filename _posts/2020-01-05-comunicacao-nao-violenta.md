@@ -2,7 +2,7 @@
 layout: post
 title: "Comunicação não-violenta"
 date: 2020-01-05 18:30 -0300
-categories: texto
+categories: relatos
 ---
 Por vezes me julgo uma pessoa sensata — sentimento esse comum a todo ser humano pensante, imagino. Até que me vejo desmascarado, discutindo sem qualquer base e agressivamente o que caracteriza um tsunami com pessoas queridas, mas que também estão fora do tom e não têm a menor ideia do que estão falando. "São ondas gigantes". "É a amplitude da onda". Pega o celular, pesquisa. "Na verdade, é o comprimento da onda". "É um terremoto no mar".
 

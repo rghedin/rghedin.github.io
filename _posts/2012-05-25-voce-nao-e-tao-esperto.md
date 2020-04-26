@@ -2,7 +2,7 @@
 layout: post
 title: "\"Você não é tão esperto quanto pensa\""
 date: 2012-05-25 10:17 -0300
-categories: texto
+categories: críticas
 ---
 O legal de ser criança é não ter limites para a imaginação. Todas elas sonham com as coisas mais improváveis, todas anseiam por futuros legais e divertidos e, mesmo ignorando os problemas, dificuldades e até as partes chatas da vida, nenhum pequeno fica reticente ao dizer que quer ser advogado, médico, jogador de futebol ou astronauta.
 

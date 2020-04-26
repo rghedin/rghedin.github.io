@@ -2,7 +2,7 @@
 layout: post
 title: "Toalhas novas"
 date: 2019-07-21 19:00 -0300
-categories: texto
+categories: relatos
 ---
 Temos uma espécie fetiche pelo novo. Espremer um tubo de pasta de dente pela primeira vez, abrir a caixa de um celular novo, exibir-se em uma roupa nova. Talvez não haja manifestação mais escancarada dessa obsessão que o sucesso dos vídeos de "unboxing" no YouTube.
 

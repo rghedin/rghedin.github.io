@@ -2,7 +2,7 @@
 layout: post
 title: "Por que troquei um Android novo por um Symbian velho"
 date: 2010-10-14 23:09 -0300
-categories: texto
+categories: tecnologia
 ---
 Semana passada eu estava eufórico: acabara de pegar um smartphone com Android, o badalado e cada vez mais popular sistema operacional móvel da Google. Tratava-se de um [Motorola Backflip](http://www.gsmarena.com/motorola_backflip-3079.php).
 

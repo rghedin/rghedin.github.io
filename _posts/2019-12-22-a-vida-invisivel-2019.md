@@ -2,7 +2,7 @@
 layout: image
 title: "A vida invisível (2019)"
 date: 2019-12-22 18:00 -0300
-categories: filme
+categories: filmes
 ---
 <p><picture>
   <source media="(max-width: 480px)" srcset="/assets/a-vida-invisivel-480.jpg" />
