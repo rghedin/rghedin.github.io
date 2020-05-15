@@ -12,7 +12,7 @@ Logo que surgiu a possibilidade de eu ir à terra da garoa, entrei em contato, v
 
 O plano inicial era almoçarmos assim que eu chegasse lá, perto das 14h30min. Afinal, como disse o André, São Paulo é especial: uma das poucas cidades onde há almoço às 15h e janta às 3h da tarde em alguns lugares. Infelizmente, o destino conspirou contra nós: meu voo atrasou muito, cerca de três horas, e acabei chegando bem atrasado. Não bastasse isso, chovia horrores na capital paulista e duas (ou três) passeatas durante o dia conseguiram piorar ainda mais o tráfego maluco de lá.
 
-Abrindo um (grande) parêntese, deixe-me falar brevemente da sensação que dá ao voar de avião pela primeira vez. De tudo o que eu podia esperar, essa parte era a que mais me afligia. Ainda escreverei algo sobre os pensamentos mórbidos que tive na véspera da viagem, mas enfim, é bem melhor do que eu imaginava. A viagem é estupidamente rápida, tranquila e, na que eu fiz, sem sustos. O avião, segundo o comandante, voa a cerca de sete quilômetros de altura, numa velocidade de 810 Km/h. Viajei num Airbus 320, da TAM:
+Abrindo um (grande) parêntese, deixe-me falar brevemente da sensação que dá ao voar de avião pela primeira vez. De tudo o que eu podia esperar, essa parte era a que mais me afligia. Ainda escreverei algo sobre os pensamentos mórbidos que tive na véspera da viagem, mas é bem melhor do que eu imaginava. A viagem é estupidamente rápida, tranquila e, na que eu fiz, sem sustos. O avião, segundo o comandante, voa a cerca de sete quilômetros de altura, numa velocidade de 810 Km/h. Viajei num Airbus 320, da TAM:
 
 ![Airbus 320.]({{ site.baseurl }}/assets/airbus-320.jpg)
 
@@ -22,32 +22,32 @@ Quando entrei no avião, a primeira sensação que tive foi um quase _déjà vu_
 
 ![Interior do A320.]({{ site.baseurl }}/assets/interior-do-a320.jpg)
 
-Enfim. Cheguei em Congonhas perto das cinco da tarde. Depois de um breve desencontro, finalmente achei o André e como nem nosso plano B podia ser executado (tomar um café da tarde), recorremos a um rápido capuccino mesmo. Tivemos um papo breve e, dali, peguei um táxi para ir à sede da Microsoft.
+Cheguei em Congonhas perto das cinco da tarde. Depois de um breve desencontro, finalmente achei o André e como nem nosso plano B podia ser executado (tomar um café da tarde), recorremos a um rápido capuccino ali mesmo. Tivemos um papo breve e, em seguida, peguei um táxi para ir à sede da Microsoft.
 
 (Fast forward ativado do período em que estive na Microsoft.)
 
-Depois do shopping, eu, [Alexandre Fugita](https://techbits.com.br) e [Mario Amaya](https://medium.com/@marioamaya) ficamos do lado de fora do WTC, esperando a Pat. Como senso de direção definitivamente não é o forte dela (e acho que de nenhum paulistano), demorou um pouquinho até nos acharmos. Demorou, mas deu tudo certo: no terceiro piso do estacionamento de uma das torres, a encontramos e eu, finalmente a conheci!
+Depois do shopping, eu, [Alexandre Fugita](https://techbits.com.br) e [Mario Amaya](https://medium.com/@marioamaya) ficamos do lado de fora do prédio, esperando a Pat. Como senso de direção não é o forte dela (e acho que de nenhum paulistano), demorou um pouquinho até nos acharmos. Demorou, mas deu tudo certo: no terceiro piso do estacionamento de uma das torres, a encontramos e eu finalmente a conheci!
 
 Isso já era um tanto tarde, mas sem problemas, afinal, o André só sairia da redação do jornal à meia noite. O destino, previamente combinado com o Tuca, era um Fran's Café na Paulista, aparentemente o café com o pior atendimento da cidade. Durante o trajeto, Mario ficou pelo caminho, eu conheci a famosa Avenida Paulista e, nela, o famoso MASP.
 
 ![Eu na Av. Paulista.]({{ site.baseurl }}/assets/eu-na-paulista.jpg)
 
-Chegamos ao tal café e, lá, finalmente conheci o grande Tuca. Tal qual eu imaginava, ele e a Pat formam um casal bacaníssimo!
+Chegamos ao tal café e, lá, finalmente conheci o Tuca. Tal qual eu imaginava, ele e a Pat formam um casal bacana!
 
 ![Pat, eu e Tuca.]({{ site.baseurl }}/assets/pat-eu-tuca.jpg)
 
-Dali em diante, um papo muito bom, enriquecido lá pelas tantas com a chegada do André (que [também relatou o dia em seu blog](http://marmota.org/blog/um-cupido-perdido-em-sao-paulo/)). Falamos de muita coisa, com destaque para histórias antigas dos tempos das cavernas da Internet e as bizarrices e possibilidades interessantes do _Second Life_. Aliás, quando o Fugita disse que, ao entrarmos no jogo, nosso personagem aparece sem roupa e andrógino, surgiu na roda a teoria de que a fonte de inspiração da Linden Lab para essa feature foi o _Exterminador do Futuro_. Foi bem divertido!
+Dali em diante, um papo muito bom, enriquecido lá pelas tantas com a chegada do André (que [também relatou o dia em seu blog](http://marmota.org/blog/um-cupido-perdido-em-sao-paulo/)). Falamos de muita coisa, com destaque para histórias antigas dos tempos das cavernas da Internet e as bizarrices e possibilidades interessantes do _Second Life_. Quando o Fugita disse que, ao entrarmos no jogo, nosso personagem aparece sem roupa e andrógino, surgiu na roda a teoria de que a fonte de inspiração da Linden Lab para essa feature foi o _Exterminador do Futuro_. Foi bem divertido!
 
 ![Todo mundo.]({{ site.baseurl }}/assets/todo-mundo.jpg)
 
 Como coisa boa passa rápido, quando alguém resolveu consultar o relógio, se espantou com o mostrador marcando mais de três da manhã. Saímos sob um frio de cerca de 10º C. Voltei com o André e o Fugita, no Marmotamóvel. Primeiro deixamos o Fugita, aí o André se perdeu e, uma hora depois, após ter passado duas vezes no Museu do Ipiranga e umas três vezes na frente do hotel, finalmente chegamos.
 
-Com muito medo de dormir e perder a hora do vôo, embora o recepcionista do hotel tenha ficado de ligar na hora pedida (e realmente o fez), não dormi. Aguardei uma hora lendo a revista que havia ganho na Microsoft e quando deu a hora, tomei café e, em seguida, um táxi rumo a Congonhas. A propósito, como Congonhas é grande! Gigantesco, para ser mais exato, se comparado ao aeroporto de Maringá…
+Com muito medo de dormir e perder a hora do vôo, embora o recepcionista do hotel tenha ficado de ligar na hora pedida, não dormi. Aguardei uma hora lendo uma revista qualquer e, quando deu a hora, tomei café e, em seguida, um táxi rumo a Congonhas. A propósito, como Congonhas é grande comparado ao aeroporto de Maringá…
 
 ![Congonhas.]({{ site.baseurl }}/assets/congonhas.jpg)
 
-Sem atrasos, tranquila e rapidamente, voltei a Maringá, onde fui recepcionado, aqui em casa, pela minha mãe, irmã e namorada. E, só para constar, fui dormir só no final da tarde de ontem. Ou seja, ao todo, fiquei mais de 36h acordado. Um recorde pessoal!
+Sem atrasos, tranquila e rapidamente, voltei a Maringá, onde fui recepcionado, aqui em casa, pela minha mãe, irmã e namorada. E, só para constar, fui dormir só no final da tarde de ontem. Ao todo fiquei mais de 36h acordado, um recorde pessoal!
 
-De São Paulo, guardei boas e inesquecíveis lembranças. São coisas como essa que me fascinam tanto na Internet. Quando, em outra época, eu poderia ter amigos "virtuais", com os quais posso contar e que, ao trocar duas palavras ao vivo, consiga ficar e me deixar à vontade, tal qual me sinto com meus amigos "reais"? Espero voltar mais vezes a São Paulo, com calma, sem pressa, para rever esses amigos, conhecer mais gente de lá e apreciar melhor as coisas boas que a cidade tem a oferecer.
+De São Paulo, guardei boas e inesquecíveis lembranças. São coisas como essa que me fascinam tanto na Internet. Quando, em outra época, eu poderia ter amigos "virtuais" que, ao trocar duas palavras ao vivo, consiga ficar e me deixar à vontade? Espero voltar mais vezes a São Paulo, com calma, sem pressa, para rever o pessoal, conhecer mais gente de lá e apreciar melhor as coisas boas que a cidade tem a oferecer.
 
-Agradecimentos à Microsoft, por ter possibilitado tudo isso, ao André, que foi me receber no aeroporto, ao pessoal que foi ao I Encontro Microsoft com Blogueiros, e à Pat, ao Tuca e ao Fugita, que junto com o André, propocionaram momentos divertidíssimos no Fran's.
+Agradecimentos à Microsoft, por ter possibilitado tudo isso, ao André, que foi me receber no aeroporto, a todos que foram ao encontro na Microsoft, e à Pat, ao Tuca e ao Fugita que, junto com o André, propocionaram momentos divertidos no Fran's.
