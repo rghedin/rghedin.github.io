@@ -8,7 +8,7 @@ layout: default
 	<div class="entry">
 		{{ content }}
 
-		<p class="date-home"><a class="post-link" href="{{ post.url | relative_url }}">{{ page.date | date: "%-d %b %Y" }}</a> em {% if post %}
+		<p class="date-home"><a class="post-link" href="{{ post.url | relative_url }}">{{ page.date | date: "%-d/%-m/%Y" }}</a> em {% if post %}
 			{% assign categories = post.categories %}
 			{% else %}
 			{% assign categories = page.categories %}
