@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quando é seguro comer pão, queijo e outros alimentos mofados"
-date: 2020-09-28 10:00 -0300
+date: 2020-09-28 09:40 -0300
 categories: etc
 ---
 A matéria dos alimentos mofados [saiu dia 26/9 na BBC Brasil](https://www.bbc.com/portuguese/geral-54223232) e foi republicada por alguns veículos (vi G1 e Folha), onde a repercussão negativa (via Twitter0), até onde vi, se instalou — com [RT do Felipe Neto](https://twitter.com/felipeneto/status/1310064687372013568) e muitas respostas indignadas aos tuítes do jornais.
