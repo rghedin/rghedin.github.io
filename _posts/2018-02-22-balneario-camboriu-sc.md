@@ -8,3 +8,5 @@ categories: passeios
   <source media="(max-width: 480px)" srcset="/assets/praia-480.jpg" />
   <img src="/assets/praia.jpg" alt="Orla de Balneário Camboriú (SC), vista de cima." />
 </picture></p>
+
+Balneário Camboriú (SC).
