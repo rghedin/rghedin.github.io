@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crítica ao minimalismo de palco"
+title: "Minimalismo de palco"
 date: 2018-03-23 18:40 -0300
 categories: críticas
 image: minimalista.jpg
