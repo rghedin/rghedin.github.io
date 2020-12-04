@@ -16,6 +16,6 @@ A celeridade da vida moderna é apontada como um mal da humanidade — no cont
 
 > Na verdade, ser capaz de concentrar-se significa ser capaz de ficar só consigo mesmo -- e esta capacidade é precisamente uma condição da capacidade de amar. Se me ligo a outra pessoa porque não posso suster-me por meus próprios pés, ele ou ela podem ser um salva-vidas, mas a relação não é a de amor. Paradoxalmente, a capacidade de ficar só é a condição da capacidade de amar.
 
-Tinha uma expectativa diferente, mais limitada, antes de começar a ler [_A Arte de Amar_](https://www.amazon.com.br/Arte-Amar-Erich-Fromm/dp/8580632064/ref=as_li_ss_tl?ie=UTF8&qid=1488500539&sr=8-1&keywords=a+arte+de+amar&linkCode=ll1&tag=manudousua-20&linkId=f08f126491580a5f0c922135f68919ed). Acabei surpreendido. É um livro fascinante que extrapola o amor romântico, que, em vez disso, aborda o amor como um sentimento universal, uma premissa para se viver bem. O que nos torna humanos, afinal.
+Tinha uma expectativa diferente, mais limitada, antes de começar a ler _A Arte de Amar_. Acabei surpreendido. É um livro fascinante que extrapola o amor romântico, que, em vez disso, aborda o amor como um sentimento universal, uma premissa para se viver bem. O que nos torna humanos, afinal.
 
 > Se é verdade, como venho tentando mostrar, que o amor é a única resposta sadia e satisfatória ao problema da existência humana, então qualquer sociedade que exclua, relativamente, o desenvolvimento do amor deve, no fim das contas, perecer vitimada por sua própria contradição com as necessidades básicas da natureza humana.

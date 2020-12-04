@@ -66,7 +66,7 @@ Não me lembro de ter encontrado muitas pessoas assim, até mesmo porque falar s
 
 **11. Deixo espaço pra você falar um pouco de você. Falar de assuntos considerados importantes que não foram abordados acima.**
 
-Falar sobre mim? Ahn… então… :) Tenho 21 anos, alterno minha residência entre Paranavaí (cidade onde nasci) e Maringá (estudo Direito), ambas no Paraná, e pretendo me tornar advogado depois que me formar, no final de 2008\. Sempre gostei muito de tecnologia, especialmente informática e Internet. Tudo começou como hobby, a coisa foi evoluindo e hoje vivo disso.
+Falar sobre mim? Ahn… então… :) Tenho 21 anos, alterno minha residência entre Paranavaí (cidade onde nasci) e Maringá (estudo Direito), ambas no Paraná, e pretendo me tornar advogado depois que me formar, no final de 2008. Sempre gostei muito de tecnologia, especialmente informática e Internet. Tudo começou como hobby, a coisa foi evoluindo e hoje vivo disso.
 
 Os blogs em que escrevo são os seguintes:
 

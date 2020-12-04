@@ -14,7 +14,7 @@ Parece chato falando assim, mas a montagem do filme dribla esse potencial proble
 
 Jacob e Anna terminam e reatam, encontram outros parceiros nesse meio tempo para apenas dispensá-los mais tarde e voltarem aos braços um do outro, têm discussões idiotas, têm momentos delicados de cumplicidade, são displicentes em coisas importantes e super dramáticos em alguns aspectos clichês — pense no "estávamos dando um tempo" do Ross, de _Friends_, num contexto dramático em vez de voltado à comédia. É o tipo de casal de que eu jamais quereria fazer parte.
 
-O final, e cuidado com **spoilers**, é maravilhoso. Achei um pouco abrupto, mas foi uma sensação passageira: ele é maravilhoso. Após tantas idas e vindas, tanto sufoco para ficarem juntos, Anna rejeita um beijo de Jacob no chuveiro e sai de cena, e Jacob faz aquela cara "onde foi que errei?", deixando um misto de confusão e indignação no espectador mais romântico.
+O final é maravilhoso. Achei um pouco abrupto, mas foi uma sensação passageira: ele é maravilhoso. Após tantas idas e vindas, tanto sufoco para ficarem juntos, Anna rejeita um beijo de Jacob no chuveiro e sai de cena, e Jacob faz aquela cara "onde foi que errei?", deixando um misto de confusão e indignação no espectador mais romântico.
 
 A paixão é a faísca que faz nascer o amor, é apenas um ingrediente desse. Não são sinônimos. Poderia dizer que a distância, com encontros breves intervalados por longos períodos de separação, borrou essa diferença e os induziu à confusão, mas vemos tantos casais repetindo o erro embaixo do mesmo teto... talvez não seja o caso.
 
