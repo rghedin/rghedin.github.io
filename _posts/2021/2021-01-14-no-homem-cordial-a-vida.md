@@ -1,6 +1,6 @@
 ---
 layout: quote
-title: "No "homem cordial", a vida…"
+title: "No \"homem cordial\", a vida…"
 date: 2021-01-14 17:30 -0300
 categories: citações
 ---
