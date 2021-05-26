@@ -113,6 +113,17 @@
     padding-left: 12px;
     border-left: 1px solid #ccc
   }
+  blockquote::before {
+    content: "\201C";
+    display: block;
+    font-size: 450px;
+    left: -50px;
+    top: 150px;
+    position: relative;
+    height: 0;
+    opacity: .07;
+    z-index: -999;
+  }
   b, strong {
     font-weight: 700;
   }
