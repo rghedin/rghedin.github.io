@@ -8,3 +8,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "jekyll", "~> 3.9.0"
 gem "github-pages"
 gem "kramdown", ">= 2.3.1"
+gem "jekyll_picture_tag", "~> 2.0"
