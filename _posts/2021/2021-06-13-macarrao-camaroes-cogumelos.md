@@ -9,4 +9,4 @@ categories: imagens
 	<img src="/assets/2021/macarrao.jpeg" alt="Foto de dois pratos, um em primeiro plano e focado, com um macarrão com camarões e cogumelos paris." />
 </picture></p>
 
-O melhor investimento em marketing que um restaurante pode fazer, sem sombra de dúvida, é em fotografias profissionais ou minimamente boas dos seus pratos. (O macarrão da imagem não está à venda.)
+O melhor investimento em marketing que um restaurante pode fazer, sem sombra de dúvidas, é em fotografias profissionais ou minimamente atraentes dos seus pratos. (O macarrão da imagem não está à venda.)
